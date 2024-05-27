@@ -29,7 +29,7 @@ def determine_status(distance_mm):
     if distance_mm > 400:
         return "Turning left " + str(distance_mm) +"mm"
     else:
-        return "Turning right" + str(distance_mm) +"mm"
+        return "Turning right " + str(distance_mm) +"mm"
 
 def log_data():
     while True:

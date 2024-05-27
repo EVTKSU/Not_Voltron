@@ -73,3 +73,765 @@
 2024-05-26 23:12:00.790706 - coordinates: 659,234, status: Turning right
 2024-05-26 23:12:01.736383 - coordinates: 714,242, status: Turning right
 2024-05-26 23:12:02.502547 - coordinates: 600,444, status: Turning right
+2024-05-26 23:35:47.598187 - coordinates: 672,450, status: Turning left 450mm
+2024-05-26 23:35:48.229226 - coordinates: 681,489, status: Turning left 489mm
+2024-05-26 23:35:48.823801 - coordinates: 690,454, status: Turning left 454mm
+2024-05-26 23:35:49.419252 - coordinates: 688,560, status: Turning left 560mm
+2024-05-26 23:35:50.019843 - coordinates: 635,443, status: Turning left 443mm
+2024-05-26 23:35:50.634254 - coordinates: 692,452, status: Turning left 452mm
+2024-05-26 23:35:51.211897 - coordinates: no face detected, status: No face detected
+2024-05-26 23:35:51.813246 - coordinates: no face detected, status: No face detected
+2024-05-26 23:35:52.399528 - coordinates: no face detected, status: No face detected
+2024-05-26 23:35:53.000588 - coordinates: no face detected, status: No face detected
+2024-05-26 23:35:53.589116 - coordinates: 545,456, status: Turning left 456mm
+2024-05-26 23:35:54.190669 - coordinates: no face detected, status: No face detected
+2024-05-26 23:35:54.809293 - coordinates: no face detected, status: No face detected
+2024-05-26 23:35:55.397502 - coordinates: 669,432, status: Turning left 432mm
+2024-05-26 23:35:56.082451 - coordinates: 675,435, status: Turning left 435mm
+2024-05-26 23:35:56.697787 - coordinates: 677,436, status: Turning left 436mm
+2024-05-26 23:35:57.279954 - coordinates: 1096,203, status: Turning right203mm
+2024-05-26 23:35:57.929739 - coordinates: 1097,204, status: Turning right204mm
+2024-05-26 23:35:58.555306 - coordinates: 1096,204, status: Turning right204mm
+2024-05-26 23:35:59.145273 - coordinates: 686,417, status: Turning left 417mm
+2024-05-26 23:35:59.729815 - coordinates: 695,413, status: Turning left 413mm
+2024-05-26 23:36:00.363500 - coordinates: 661,413, status: Turning left 413mm
+2024-05-26 23:36:00.997518 - coordinates: 688,398, status: Turning right398mm
+2024-05-26 23:36:01.586972 - coordinates: 683,404, status: Turning left 404mm
+2024-05-26 23:36:02.179479 - coordinates: 703,437, status: Turning left 437mm
+2024-05-26 23:36:02.794146 - coordinates: 652,406, status: Turning left 406mm
+2024-05-26 23:36:03.378843 - coordinates: 712,380, status: Turning right380mm
+2024-05-26 23:36:04.099877 - coordinates: 703,423, status: Turning left 423mm
+2024-05-26 23:36:04.665495 - coordinates: 705,399, status: Turning right399mm
+2024-05-26 23:36:05.279909 - coordinates: 709,417, status: Turning left 417mm
+2024-05-26 23:36:05.926469 - coordinates: 696,468, status: Turning left 468mm
+2024-05-26 23:36:06.476969 - coordinates: 621,432, status: Turning left 432mm
+2024-05-26 23:36:07.078164 - coordinates: 639,401, status: Turning left 401mm
+2024-05-26 23:36:07.680025 - coordinates: 634,406, status: Turning left 406mm
+2024-05-26 23:36:08.317903 - coordinates: 627,413, status: Turning left 413mm
+2024-05-26 23:36:08.888473 - coordinates: 969,405, status: Turning left 405mm
+2024-05-26 23:36:09.487141 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:10.087798 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:10.680724 - coordinates: 563,413, status: Turning left 413mm
+2024-05-26 23:36:11.299718 - coordinates: 562,414, status: Turning left 414mm
+2024-05-26 23:36:11.893363 - coordinates: 566,410, status: Turning left 410mm
+2024-05-26 23:36:12.482797 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:13.069866 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:13.680662 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:14.280693 - coordinates: 563,425, status: Turning left 425mm
+2024-05-26 23:36:14.870405 - coordinates: 622,426, status: Turning left 426mm
+2024-05-26 23:36:15.457279 - coordinates: 667,438, status: Turning left 438mm
+2024-05-26 23:36:16.118987 - coordinates: 671,442, status: Turning left 442mm
+2024-05-26 23:36:16.728036 - coordinates: 676,444, status: Turning left 444mm
+2024-05-26 23:36:17.328643 - coordinates: 672,441, status: Turning left 441mm
+2024-05-26 23:36:17.913484 - coordinates: 670,441, status: Turning left 441mm
+2024-05-26 23:36:18.496512 - coordinates: 669,443, status: Turning left 443mm
+2024-05-26 23:36:19.102242 - coordinates: 664,445, status: Turning left 445mm
+2024-05-26 23:36:19.698760 - coordinates: 664,445, status: Turning left 445mm
+2024-05-26 23:36:20.281975 - coordinates: 660,440, status: Turning left 440mm
+2024-05-26 23:36:20.884171 - coordinates: 606,418, status: Turning left 418mm
+2024-05-26 23:36:21.468970 - coordinates: 574,422, status: Turning left 422mm
+2024-05-26 23:36:22.060911 - coordinates: 557,423, status: Turning left 423mm
+2024-05-26 23:36:22.663275 - coordinates: 549,425, status: Turning left 425mm
+2024-05-26 23:36:23.249835 - coordinates: 543,423, status: Turning left 423mm
+2024-05-26 23:36:23.837012 - coordinates: 547,423, status: Turning left 423mm
+2024-05-26 23:36:24.411229 - coordinates: 563,425, status: Turning left 425mm
+2024-05-26 23:36:25.009057 - coordinates: 572,425, status: Turning left 425mm
+2024-05-26 23:36:25.598895 - coordinates: 571,425, status: Turning left 425mm
+2024-05-26 23:36:26.183649 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:26.796527 - coordinates: 584,432, status: Turning left 432mm
+2024-05-26 23:36:27.401710 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:28.001188 - coordinates: 593,434, status: Turning left 434mm
+2024-05-26 23:36:28.600879 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:29.195616 - coordinates: 601,440, status: Turning left 440mm
+2024-05-26 23:36:29.779744 - coordinates: 597,439, status: Turning left 439mm
+2024-05-26 23:36:30.361210 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:30.948890 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:31.529840 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:32.150501 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:32.732631 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:33.363428 - coordinates: 608,453, status: Turning left 453mm
+2024-05-26 23:36:34.098470 - coordinates: 711,444, status: Turning left 444mm
+2024-05-26 23:36:34.681319 - coordinates: 818,433, status: Turning left 433mm
+2024-05-26 23:36:35.279811 - coordinates: 831,433, status: Turning left 433mm
+2024-05-26 23:36:35.879193 - coordinates: 778,427, status: Turning left 427mm
+2024-05-26 23:36:36.480861 - coordinates: 614,416, status: Turning left 416mm
+2024-05-26 23:36:37.083782 - coordinates: 570,426, status: Turning left 426mm
+2024-05-26 23:36:37.670125 - coordinates: 560,428, status: Turning left 428mm
+2024-05-26 23:36:38.271037 - coordinates: 578,431, status: Turning left 431mm
+2024-05-26 23:36:38.857148 - coordinates: 635,431, status: Turning left 431mm
+2024-05-26 23:36:39.470680 - coordinates: 712,443, status: Turning left 443mm
+2024-05-26 23:36:40.063549 - coordinates: 367,189, status: Turning right189mm
+2024-05-26 23:36:40.663127 - coordinates: 394,227, status: Turning right227mm
+2024-05-26 23:36:41.250750 - coordinates: 391,230, status: Turning right230mm
+2024-05-26 23:36:41.862019 - coordinates: 385,230, status: Turning right230mm
+2024-05-26 23:36:42.464345 - coordinates: 383,230, status: Turning right230mm
+2024-05-26 23:36:43.065850 - coordinates: 384,229, status: Turning right229mm
+2024-05-26 23:36:43.662884 - coordinates: 374,229, status: Turning right229mm
+2024-05-26 23:36:44.260862 - coordinates: 369,232, status: Turning right232mm
+2024-05-26 23:36:44.863781 - coordinates: 364,232, status: Turning right232mm
+2024-05-26 23:36:45.443253 - coordinates: 367,231, status: Turning right231mm
+2024-05-26 23:36:46.080573 - coordinates: 365,232, status: Turning right232mm
+2024-05-26 23:36:46.679397 - coordinates: 365,232, status: Turning right232mm
+2024-05-26 23:36:47.266712 - coordinates: 666,456, status: Turning left 456mm
+2024-05-26 23:36:47.878426 - coordinates: 1097,204, status: Turning right204mm
+2024-05-26 23:36:48.478998 - coordinates: 699,465, status: Turning left 465mm
+2024-05-26 23:36:49.076291 - coordinates: no face detected, status: No face detected
+2024-05-26 23:36:49.678410 - coordinates: 250,227, status: Turning right227mm
+2024-05-26 23:36:50.319716 - coordinates: 1096,203, status: Turning right203mm
+2024-05-26 23:36:50.899705 - coordinates: 657,462, status: Turning left 462mm
+2024-05-26 23:36:51.501848 - coordinates: 662,449, status: Turning left 449mm
+2024-05-26 23:36:52.077496 - coordinates: 116,229, status: Turning right229mm
+2024-05-26 23:36:52.680885 - coordinates: 111,238, status: Turning right238mm
+2024-05-26 23:36:53.295339 - coordinates: 134,232, status: Turning right232mm
+2024-05-26 23:36:53.880170 - coordinates: 130,236, status: Turning right236mm
+2024-05-26 23:36:54.478931 - coordinates: 132,234, status: Turning right234mm
+2024-05-26 23:36:55.097866 - coordinates: 125,237, status: Turning right237mm
+2024-05-26 23:36:55.685871 - coordinates: 128,233, status: Turning right233mm
+2024-05-26 23:36:56.280462 - coordinates: 138,233, status: Turning right233mm
+2024-05-26 23:36:56.881671 - coordinates: 138,233, status: Turning right233mm
+2024-05-26 23:36:57.514142 - coordinates: 760,450, status: Turning left 450mm
+2024-05-26 23:36:58.129910 - coordinates: 139,234, status: Turning right234mm
+2024-05-26 23:36:58.714571 - coordinates: 139,233, status: Turning right233mm
+2024-05-26 23:36:59.293636 - coordinates: 137,235, status: Turning right235mm
+2024-05-26 23:36:59.925930 - coordinates: 137,237, status: Turning right237mm
+2024-05-26 23:37:00.544178 - coordinates: 133,237, status: Turning right237mm
+2024-05-26 23:37:01.137137 - coordinates: 133,236, status: Turning right236mm
+2024-05-26 23:37:01.737109 - coordinates: 134,236, status: Turning right236mm
+2024-05-26 23:37:02.329405 - coordinates: 130,235, status: Turning right235mm
+2024-05-26 23:37:02.939699 - coordinates: 131,236, status: Turning right236mm
+2024-05-26 23:37:03.537744 - coordinates: 131,236, status: Turning right236mm
+2024-05-26 23:37:04.150031 - coordinates: 131,235, status: Turning right235mm
+2024-05-26 23:37:04.748975 - coordinates: 131,236, status: Turning right236mm
+2024-05-26 23:37:05.371679 - coordinates: 130,236, status: Turning right236mm
+2024-05-26 23:37:05.978348 - coordinates: 131,235, status: Turning right235mm
+2024-05-26 23:37:06.576807 - coordinates: 129,235, status: Turning right235mm
+2024-05-26 23:37:07.180090 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:07.762489 - coordinates: 124,239, status: Turning right239mm
+2024-05-26 23:37:08.378845 - coordinates: 125,237, status: Turning right237mm
+2024-05-26 23:37:08.994280 - coordinates: 122,238, status: Turning right238mm
+2024-05-26 23:37:09.593985 - coordinates: 122,236, status: Turning right236mm
+2024-05-26 23:37:10.214029 - coordinates: 123,238, status: Turning right238mm
+2024-05-26 23:37:10.811409 - coordinates: 125,238, status: Turning right238mm
+2024-05-26 23:37:11.464599 - coordinates: 127,236, status: Turning right236mm
+2024-05-26 23:37:12.074222 - coordinates: 127,235, status: Turning right235mm
+2024-05-26 23:37:12.706123 - coordinates: 127,236, status: Turning right236mm
+2024-05-26 23:37:13.330507 - coordinates: 128,236, status: Turning right236mm
+2024-05-26 23:37:13.942800 - coordinates: 128,234, status: Turning right234mm
+2024-05-26 23:37:14.534807 - coordinates: 129,235, status: Turning right235mm
+2024-05-26 23:37:15.145449 - coordinates: 126,236, status: Turning right236mm
+2024-05-26 23:37:15.732145 - coordinates: 126,235, status: Turning right235mm
+2024-05-26 23:37:16.339938 - coordinates: 125,237, status: Turning right237mm
+2024-05-26 23:37:16.943037 - coordinates: 125,237, status: Turning right237mm
+2024-05-26 23:37:17.566063 - coordinates: 127,236, status: Turning right236mm
+2024-05-26 23:37:18.210491 - coordinates: 126,236, status: Turning right236mm
+2024-05-26 23:37:18.861661 - coordinates: 131,237, status: Turning right237mm
+2024-05-26 23:37:19.463687 - coordinates: 129,237, status: Turning right237mm
+2024-05-26 23:37:20.083671 - coordinates: 129,237, status: Turning right237mm
+2024-05-26 23:37:20.638728 - coordinates: 130,235, status: Turning right235mm
+2024-05-26 23:37:21.235500 - coordinates: 131,236, status: Turning right236mm
+2024-05-26 23:37:21.828658 - coordinates: 131,235, status: Turning right235mm
+2024-05-26 23:37:22.427893 - coordinates: 129,236, status: Turning right236mm
+2024-05-26 23:37:23.037513 - coordinates: 127,235, status: Turning right235mm
+2024-05-26 23:37:23.627856 - coordinates: 127,236, status: Turning right236mm
+2024-05-26 23:37:24.228640 - coordinates: 131,236, status: Turning right236mm
+2024-05-26 23:37:24.848560 - coordinates: 129,235, status: Turning right235mm
+2024-05-26 23:37:25.443582 - coordinates: 131,236, status: Turning right236mm
+2024-05-26 23:37:26.032419 - coordinates: 478,610, status: Turning left 610mm
+2024-05-26 23:37:26.659351 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:27.243560 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:27.887800 - coordinates: 221,477, status: Turning left 477mm
+2024-05-26 23:37:28.459983 - coordinates: 125,241, status: Turning right241mm
+2024-05-26 23:37:29.076970 - coordinates: 134,241, status: Turning right241mm
+2024-05-26 23:37:29.674198 - coordinates: 138,240, status: Turning right240mm
+2024-05-26 23:37:30.277002 - coordinates: 135,240, status: Turning right240mm
+2024-05-26 23:37:30.894505 - coordinates: 133,238, status: Turning right238mm
+2024-05-26 23:37:31.514388 - coordinates: 137,238, status: Turning right238mm
+2024-05-26 23:37:32.162752 - coordinates: 135,239, status: Turning right239mm
+2024-05-26 23:37:32.748907 - coordinates: 135,239, status: Turning right239mm
+2024-05-26 23:37:33.343266 - coordinates: 134,240, status: Turning right240mm
+2024-05-26 23:37:33.934773 - coordinates: 136,239, status: Turning right239mm
+2024-05-26 23:37:34.532829 - coordinates: 135,241, status: Turning right241mm
+2024-05-26 23:37:35.144281 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:35.727172 - coordinates: 644,492, status: Turning left 492mm
+2024-05-26 23:37:36.333547 - coordinates: 138,242, status: Turning right242mm
+2024-05-26 23:37:36.929646 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:37.528737 - coordinates: 136,242, status: Turning right242mm
+2024-05-26 23:37:38.134027 - coordinates: 135,241, status: Turning right241mm
+2024-05-26 23:37:38.729109 - coordinates: 134,241, status: Turning right241mm
+2024-05-26 23:37:39.327382 - coordinates: 135,240, status: Turning right240mm
+2024-05-26 23:37:39.961488 - coordinates: 134,240, status: Turning right240mm
+2024-05-26 23:37:40.555064 - coordinates: 135,241, status: Turning right241mm
+2024-05-26 23:37:41.143882 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:41.743258 - coordinates: 134,240, status: Turning right240mm
+2024-05-26 23:37:42.345831 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:42.943638 - coordinates: 135,242, status: Turning right242mm
+2024-05-26 23:37:43.546026 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:44.205099 - coordinates: 131,242, status: Turning right242mm
+2024-05-26 23:37:44.776558 - coordinates: 133,239, status: Turning right239mm
+2024-05-26 23:37:45.381188 - coordinates: 134,240, status: Turning right240mm
+2024-05-26 23:37:45.977102 - coordinates: 134,240, status: Turning right240mm
+2024-05-26 23:37:46.576996 - coordinates: 627,452, status: Turning left 452mm
+2024-05-26 23:37:47.184146 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:47.768717 - coordinates: 131,241, status: Turning right241mm
+2024-05-26 23:37:48.380400 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:48.966937 - coordinates: 132,242, status: Turning right242mm
+2024-05-26 23:37:49.573336 - coordinates: 127,240, status: Turning right240mm
+2024-05-26 23:37:50.158666 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:50.743873 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:51.344578 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:51.958700 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:52.537541 - coordinates: no face detected, status: No face detected
+2024-05-26 23:37:53.126707 - coordinates: 607,450, status: Turning left 450mm
+2024-05-26 23:37:53.733639 - coordinates: 120,205, status: Turning right205mm
+2024-05-26 23:37:54.352690 - coordinates: 691,536, status: Turning left 536mm
+2024-05-26 23:37:54.964785 - coordinates: 717,464, status: Turning left 464mm
+2024-05-26 23:37:55.610650 - coordinates: 711,462, status: Turning left 462mm
+2024-05-26 23:37:56.194024 - coordinates: 76,680, status: Turning left 680mm
+2024-05-26 23:37:56.801497 - coordinates: 710,465, status: Turning left 465mm
+2024-05-26 23:37:57.410798 - coordinates: 653,437, status: Turning left 437mm
+2024-05-26 23:37:58.016025 - coordinates: 78,674, status: Turning left 674mm
+2024-05-26 23:37:58.627030 - coordinates: 652,440, status: Turning left 440mm
+2024-05-26 23:37:59.226215 - coordinates: 663,435, status: Turning left 435mm
+2024-05-26 23:37:59.831176 - coordinates: 664,437, status: Turning left 437mm
+2024-05-26 23:38:00.428605 - coordinates: 107,197, status: Turning right197mm
+2024-05-26 23:38:01.036320 - coordinates: 650,434, status: Turning left 434mm
+2024-05-26 23:38:01.626959 - coordinates: 660,416, status: Turning left 416mm
+2024-05-26 23:38:02.256054 - coordinates: 648,437, status: Turning left 437mm
+2024-05-26 23:38:02.844864 - coordinates: 109,201, status: Turning right201mm
+2024-05-26 23:38:03.469487 - coordinates: 111,200, status: Turning right200mm
+2024-05-26 23:38:04.062990 - coordinates: 112,202, status: Turning right202mm
+2024-05-26 23:38:04.645690 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:05.277463 - coordinates: 669,437, status: Turning left 437mm
+2024-05-26 23:38:05.896609 - coordinates: 122,198, status: Turning right198mm
+2024-05-26 23:38:06.527244 - coordinates: 626,491, status: Turning left 491mm
+2024-05-26 23:38:07.111394 - coordinates: 657,432, status: Turning left 432mm
+2024-05-26 23:38:07.713151 - coordinates: 675,443, status: Turning left 443mm
+2024-05-26 23:38:08.313787 - coordinates: 682,444, status: Turning left 444mm
+2024-05-26 23:38:08.903104 - coordinates: 678,443, status: Turning left 443mm
+2024-05-26 23:38:09.515700 - coordinates: 681,453, status: Turning left 453mm
+2024-05-26 23:38:10.118253 - coordinates: 702,431, status: Turning left 431mm
+2024-05-26 23:38:10.743301 - coordinates: 719,374, status: Turning right374mm
+2024-05-26 23:38:11.348144 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:11.943883 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:12.565197 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:13.159750 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:13.793988 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:14.378422 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:14.968915 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:15.561634 - coordinates: 680,418, status: Turning left 418mm
+2024-05-26 23:38:16.161216 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:16.773783 - coordinates: 973,407, status: Turning left 407mm
+2024-05-26 23:38:17.363696 - coordinates: 681,392, status: Turning right392mm
+2024-05-26 23:38:17.971400 - coordinates: 663,379, status: Turning right379mm
+2024-05-26 23:38:18.565967 - coordinates: 650,388, status: Turning right388mm
+2024-05-26 23:38:19.171109 - coordinates: 649,391, status: Turning right391mm
+2024-05-26 23:38:19.766474 - coordinates: 657,386, status: Turning right386mm
+2024-05-26 23:38:20.362564 - coordinates: 657,374, status: Turning right374mm
+2024-05-26 23:38:20.968443 - coordinates: 658,388, status: Turning right388mm
+2024-05-26 23:38:21.558333 - coordinates: 655,397, status: Turning right397mm
+2024-05-26 23:38:22.150198 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:22.750504 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:23.337026 - coordinates: 455,754, status: Turning left 754mm
+2024-05-26 23:38:23.932859 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:24.537927 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:25.147035 - coordinates: 685,476, status: Turning left 476mm
+2024-05-26 23:38:25.748813 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:26.358396 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:26.946103 - coordinates: 679,475, status: Turning left 475mm
+2024-05-26 23:38:27.548102 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:28.142687 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:28.729118 - coordinates: 690,481, status: Turning left 481mm
+2024-05-26 23:38:29.331795 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:29.922570 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:30.516530 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:31.113251 - coordinates: 678,456, status: Turning left 456mm
+2024-05-26 23:38:31.737170 - coordinates: 679,452, status: Turning left 452mm
+2024-05-26 23:38:32.337693 - coordinates: 678,450, status: Turning left 450mm
+2024-05-26 23:38:32.932904 - coordinates: 679,452, status: Turning left 452mm
+2024-05-26 23:38:33.528720 - coordinates: 680,453, status: Turning left 453mm
+2024-05-26 23:38:34.125280 - coordinates: 680,452, status: Turning left 452mm
+2024-05-26 23:38:34.728594 - coordinates: 683,454, status: Turning left 454mm
+2024-05-26 23:38:35.318472 - coordinates: 1097,202, status: Turning right202mm
+2024-05-26 23:38:35.911496 - coordinates: 677,451, status: Turning left 451mm
+2024-05-26 23:38:36.498336 - coordinates: 675,452, status: Turning left 452mm
+2024-05-26 23:38:37.090967 - coordinates: 675,452, status: Turning left 452mm
+2024-05-26 23:38:37.692198 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:38.299567 - coordinates: 658,446, status: Turning left 446mm
+2024-05-26 23:38:38.918180 - coordinates: 657,447, status: Turning left 447mm
+2024-05-26 23:38:39.509489 - coordinates: 657,447, status: Turning left 447mm
+2024-05-26 23:38:40.120134 - coordinates: 674,435, status: Turning left 435mm
+2024-05-26 23:38:40.712850 - coordinates: 679,445, status: Turning left 445mm
+2024-05-26 23:38:41.329146 - coordinates: 683,447, status: Turning left 447mm
+2024-05-26 23:38:41.944689 - coordinates: 681,449, status: Turning left 449mm
+2024-05-26 23:38:42.547053 - coordinates: 681,450, status: Turning left 450mm
+2024-05-26 23:38:43.150068 - coordinates: 1096,203, status: Turning right203mm
+2024-05-26 23:38:43.743612 - coordinates: 680,432, status: Turning left 432mm
+2024-05-26 23:38:44.351132 - coordinates: 681,434, status: Turning left 434mm
+2024-05-26 23:38:44.942523 - coordinates: 681,441, status: Turning left 441mm
+2024-05-26 23:38:45.546046 - coordinates: 679,453, status: Turning left 453mm
+2024-05-26 23:38:46.152631 - coordinates: 678,452, status: Turning left 452mm
+2024-05-26 23:38:46.743110 - coordinates: 678,450, status: Turning left 450mm
+2024-05-26 23:38:47.342509 - coordinates: 681,450, status: Turning left 450mm
+2024-05-26 23:38:47.942079 - coordinates: 680,451, status: Turning left 451mm
+2024-05-26 23:38:48.559515 - coordinates: 681,451, status: Turning left 451mm
+2024-05-26 23:38:49.147209 - coordinates: 682,452, status: Turning left 452mm
+2024-05-26 23:38:49.745971 - coordinates: 683,452, status: Turning left 452mm
+2024-05-26 23:38:50.351344 - coordinates: 681,452, status: Turning left 452mm
+2024-05-26 23:38:50.964560 - coordinates: 185,398, status: Turning right398mm
+2024-05-26 23:38:51.565103 - coordinates: 682,453, status: Turning left 453mm
+2024-05-26 23:38:52.184254 - coordinates: 682,454, status: Turning left 454mm
+2024-05-26 23:38:52.783004 - coordinates: 679,455, status: Turning left 455mm
+2024-05-26 23:38:53.361758 - coordinates: 672,454, status: Turning left 454mm
+2024-05-26 23:38:53.978066 - coordinates: 674,453, status: Turning left 453mm
+2024-05-26 23:38:54.581877 - coordinates: 678,454, status: Turning left 454mm
+2024-05-26 23:38:55.184967 - coordinates: 677,455, status: Turning left 455mm
+2024-05-26 23:38:55.789051 - coordinates: 674,456, status: Turning left 456mm
+2024-05-26 23:38:56.380056 - coordinates: 670,454, status: Turning left 454mm
+2024-05-26 23:38:56.987202 - coordinates: 669,453, status: Turning left 453mm
+2024-05-26 23:38:57.601206 - coordinates: 674,451, status: Turning left 451mm
+2024-05-26 23:38:58.198249 - coordinates: 664,443, status: Turning left 443mm
+2024-05-26 23:38:58.801032 - coordinates: 661,441, status: Turning left 441mm
+2024-05-26 23:38:59.394117 - coordinates: no face detected, status: No face detected
+2024-05-26 23:38:59.995751 - coordinates: 670,443, status: Turning left 443mm
+2024-05-26 23:39:00.601910 - coordinates: 667,447, status: Turning left 447mm
+2024-05-26 23:39:01.204452 - coordinates: 663,452, status: Turning left 452mm
+2024-05-26 23:39:01.810086 - coordinates: 677,453, status: Turning left 453mm
+2024-05-26 23:39:02.404717 - coordinates: 687,456, status: Turning left 456mm
+2024-05-26 23:39:02.995994 - coordinates: 681,457, status: Turning left 457mm
+2024-05-26 23:39:03.592486 - coordinates: 662,463, status: Turning left 463mm
+2024-05-26 23:39:04.206981 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:04.795690 - coordinates: 676,461, status: Turning left 461mm
+2024-05-26 23:39:05.415262 - coordinates: 242,127, status: Turning right127mm
+2024-05-26 23:39:06.013547 - coordinates: 682,454, status: Turning left 454mm
+2024-05-26 23:39:06.643095 - coordinates: 683,454, status: Turning left 454mm
+2024-05-26 23:39:07.251727 - coordinates: 682,455, status: Turning left 455mm
+2024-05-26 23:39:07.851586 - coordinates: 686,454, status: Turning left 454mm
+2024-05-26 23:39:08.453650 - coordinates: 686,456, status: Turning left 456mm
+2024-05-26 23:39:09.059674 - coordinates: 684,459, status: Turning left 459mm
+2024-05-26 23:39:09.678462 - coordinates: 109,246, status: Turning right246mm
+2024-05-26 23:39:10.297338 - coordinates: 671,464, status: Turning left 464mm
+2024-05-26 23:39:10.906709 - coordinates: 676,471, status: Turning left 471mm
+2024-05-26 23:39:11.499980 - coordinates: 675,469, status: Turning left 469mm
+2024-05-26 23:39:12.102853 - coordinates: 667,466, status: Turning left 466mm
+2024-05-26 23:39:12.716691 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:13.280245 - coordinates: 665,454, status: Turning left 454mm
+2024-05-26 23:39:13.914524 - coordinates: 665,455, status: Turning left 455mm
+2024-05-26 23:39:14.491758 - coordinates: 663,453, status: Turning left 453mm
+2024-05-26 23:39:15.084765 - coordinates: 664,453, status: Turning left 453mm
+2024-05-26 23:39:15.680306 - coordinates: 667,454, status: Turning left 454mm
+2024-05-26 23:39:16.276952 - coordinates: 660,455, status: Turning left 455mm
+2024-05-26 23:39:16.881389 - coordinates: 654,463, status: Turning left 463mm
+2024-05-26 23:39:17.472025 - coordinates: 654,468, status: Turning left 468mm
+2024-05-26 23:39:18.077509 - coordinates: 650,479, status: Turning left 479mm
+2024-05-26 23:39:18.663441 - coordinates: 661,474, status: Turning left 474mm
+2024-05-26 23:39:19.254080 - coordinates: 674,474, status: Turning left 474mm
+2024-05-26 23:39:19.845071 - coordinates: 673,468, status: Turning left 468mm
+2024-05-26 23:39:20.436435 - coordinates: 671,459, status: Turning left 459mm
+2024-05-26 23:39:21.012125 - coordinates: 679,460, status: Turning left 460mm
+2024-05-26 23:39:21.609998 - coordinates: 675,458, status: Turning left 458mm
+2024-05-26 23:39:22.210147 - coordinates: 676,457, status: Turning left 457mm
+2024-05-26 23:39:22.802396 - coordinates: 669,451, status: Turning left 451mm
+2024-05-26 23:39:23.398841 - coordinates: 670,449, status: Turning left 449mm
+2024-05-26 23:39:23.995840 - coordinates: 667,447, status: Turning left 447mm
+2024-05-26 23:39:24.578722 - coordinates: 475,511, status: Turning left 511mm
+2024-05-26 23:39:25.193268 - coordinates: 640,451, status: Turning left 451mm
+2024-05-26 23:39:25.807795 - coordinates: 644,450, status: Turning left 450mm
+2024-05-26 23:39:26.397233 - coordinates: 640,450, status: Turning left 450mm
+2024-05-26 23:39:26.989422 - coordinates: 652,446, status: Turning left 446mm
+2024-05-26 23:39:27.596527 - coordinates: 665,449, status: Turning left 449mm
+2024-05-26 23:39:28.249344 - coordinates: 667,451, status: Turning left 451mm
+2024-05-26 23:39:28.782407 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:29.377444 - coordinates: 667,453, status: Turning left 453mm
+2024-05-26 23:39:29.977841 - coordinates: 659,455, status: Turning left 455mm
+2024-05-26 23:39:30.568180 - coordinates: 661,451, status: Turning left 451mm
+2024-05-26 23:39:31.162289 - coordinates: 667,453, status: Turning left 453mm
+2024-05-26 23:39:31.772898 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:32.366379 - coordinates: 665,448, status: Turning left 448mm
+2024-05-26 23:39:32.959614 - coordinates: 620,437, status: Turning left 437mm
+2024-05-26 23:39:33.585747 - coordinates: 621,430, status: Turning left 430mm
+2024-05-26 23:39:34.175957 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:34.758817 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:35.401103 - coordinates: 852,675, status: Turning left 675mm
+2024-05-26 23:39:35.973443 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:36.560753 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:37.146422 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:37.750352 - coordinates: 645,434, status: Turning left 434mm
+2024-05-26 23:39:38.330038 - coordinates: 634,438, status: Turning left 438mm
+2024-05-26 23:39:38.926261 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:39.525225 - coordinates: 642,438, status: Turning left 438mm
+2024-05-26 23:39:40.112310 - coordinates: 632,447, status: Turning left 447mm
+2024-05-26 23:39:40.709636 - coordinates: 642,455, status: Turning left 455mm
+2024-05-26 23:39:41.298745 - coordinates: 657,456, status: Turning left 456mm
+2024-05-26 23:39:41.896094 - coordinates: 642,455, status: Turning left 455mm
+2024-05-26 23:39:42.481815 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:43.068149 - coordinates: 641,444, status: Turning left 444mm
+2024-05-26 23:39:43.650479 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:44.283986 - coordinates: 650,456, status: Turning left 456mm
+2024-05-26 23:39:44.877187 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:45.464767 - coordinates: 669,454, status: Turning left 454mm
+2024-05-26 23:39:46.065957 - coordinates: 666,446, status: Turning left 446mm
+2024-05-26 23:39:46.664483 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:47.352891 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:47.961363 - coordinates: 641,455, status: Turning left 455mm
+2024-05-26 23:39:48.555522 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:49.135868 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:49.720164 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:50.319751 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:50.900935 - coordinates: 1098,203, status: Turning right203mm
+2024-05-26 23:39:51.499185 - coordinates: 670,436, status: Turning left 436mm
+2024-05-26 23:39:52.102058 - coordinates: 667,436, status: Turning left 436mm
+2024-05-26 23:39:52.743507 - coordinates: 671,432, status: Turning left 432mm
+2024-05-26 23:39:53.329913 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:53.945848 - coordinates: 673,435, status: Turning left 435mm
+2024-05-26 23:39:54.530977 - coordinates: 674,437, status: Turning left 437mm
+2024-05-26 23:39:55.127548 - coordinates: 659,436, status: Turning left 436mm
+2024-05-26 23:39:55.730560 - coordinates: 659,431, status: Turning left 431mm
+2024-05-26 23:39:56.314087 - coordinates: no face detected, status: No face detected
+2024-05-26 23:39:56.908297 - coordinates: 645,438, status: Turning left 438mm
+2024-05-26 23:39:57.498493 - coordinates: 650,437, status: Turning left 437mm
+2024-05-26 23:39:58.096492 - coordinates: 650,443, status: Turning left 443mm
+2024-05-26 23:39:58.676542 - coordinates: 636,448, status: Turning left 448mm
+2024-05-26 23:39:59.291363 - coordinates: 631,462, status: Turning left 462mm
+2024-05-26 23:39:59.845738 - coordinates: 643,456, status: Turning left 456mm
+2024-05-26 23:40:00.434621 - coordinates: 653,453, status: Turning left 453mm
+2024-05-26 23:40:01.034418 - coordinates: 656,451, status: Turning left 451mm
+2024-05-26 23:40:01.623960 - coordinates: 665,444, status: Turning left 444mm
+2024-05-26 23:40:02.220402 - coordinates: 653,437, status: Turning left 437mm
+2024-05-26 23:40:02.810623 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:03.402123 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:03.997983 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:04.571224 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:05.162637 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:05.761951 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:06.353210 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:06.943076 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:07.534680 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:08.122498 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:08.717841 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:09.314032 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:09.880320 - coordinates: 659,436, status: Turning left 436mm
+2024-05-26 23:40:10.465035 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:11.078984 - coordinates: 673,441, status: Turning left 441mm
+2024-05-26 23:40:11.678673 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:12.277627 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:12.867048 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:13.454415 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:14.059804 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:14.646055 - coordinates: 709,451, status: Turning left 451mm
+2024-05-26 23:40:15.231825 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:15.814556 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:16.423946 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:17.018264 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:17.609830 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:18.195354 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:18.780810 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:19.342605 - coordinates: 689,432, status: Turning left 432mm
+2024-05-26 23:40:19.929209 - coordinates: 685,422, status: Turning left 422mm
+2024-05-26 23:40:20.529455 - coordinates: 680,435, status: Turning left 435mm
+2024-05-26 23:40:21.117825 - coordinates: 678,437, status: Turning left 437mm
+2024-05-26 23:40:21.710576 - coordinates: 671,436, status: Turning left 436mm
+2024-05-26 23:40:22.332006 - coordinates: 669,433, status: Turning left 433mm
+2024-05-26 23:40:22.900370 - coordinates: 1097,203, status: Turning right203mm
+2024-05-26 23:40:23.502929 - coordinates: 1097,203, status: Turning right203mm
+2024-05-26 23:40:24.109333 - coordinates: 685,437, status: Turning left 437mm
+2024-05-26 23:40:24.682114 - coordinates: 684,438, status: Turning left 438mm
+2024-05-26 23:40:25.269534 - coordinates: 686,438, status: Turning left 438mm
+2024-05-26 23:40:25.844557 - coordinates: 684,435, status: Turning left 435mm
+2024-05-26 23:40:26.449745 - coordinates: 689,435, status: Turning left 435mm
+2024-05-26 23:40:27.050056 - coordinates: 697,436, status: Turning left 436mm
+2024-05-26 23:40:27.647561 - coordinates: 707,425, status: Turning left 425mm
+2024-05-26 23:40:28.249434 - coordinates: 692,419, status: Turning left 419mm
+2024-05-26 23:40:28.810078 - coordinates: 689,409, status: Turning left 409mm
+2024-05-26 23:40:29.409955 - coordinates: 696,415, status: Turning left 415mm
+2024-05-26 23:40:30.011718 - coordinates: 674,439, status: Turning left 439mm
+2024-05-26 23:40:30.649738 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:31.228931 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:31.827656 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:32.422147 - coordinates: 954,397, status: Turning right397mm
+2024-05-26 23:40:33.020219 - coordinates: 656,472, status: Turning left 472mm
+2024-05-26 23:40:33.609769 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:34.231737 - coordinates: 663,453, status: Turning left 453mm
+2024-05-26 23:40:34.792482 - coordinates: 658,441, status: Turning left 441mm
+2024-05-26 23:40:35.377294 - coordinates: 654,437, status: Turning left 437mm
+2024-05-26 23:40:35.962302 - coordinates: 699,432, status: Turning left 432mm
+2024-05-26 23:40:36.564550 - coordinates: 686,472, status: Turning left 472mm
+2024-05-26 23:40:37.165868 - coordinates: 713,488, status: Turning left 488mm
+2024-05-26 23:40:37.767247 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:38.381307 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:38.961834 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:39.551492 - coordinates: 700,488, status: Turning left 488mm
+2024-05-26 23:40:40.128804 - coordinates: no face detected, status: No face detected
+2024-05-26 23:40:40.745083 - coordinates: 722,483, status: Turning left 483mm
+2024-05-26 23:40:41.332376 - coordinates: 744,473, status: Turning left 473mm
+2024-05-26 23:40:41.929658 - coordinates: 750,451, status: Turning left 451mm
+2024-05-26 23:40:42.530939 - coordinates: 723,439, status: Turning left 439mm
+2024-05-26 23:40:43.117318 - coordinates: 691,438, status: Turning left 438mm
+2024-05-26 23:40:43.731835 - coordinates: 707,451, status: Turning left 451mm
+2024-05-26 23:40:44.326885 - coordinates: 713,450, status: Turning left 450mm
+2024-05-26 23:40:44.914064 - coordinates: 714,446, status: Turning left 446mm
+2024-05-26 23:40:45.509378 - coordinates: 705,435, status: Turning left 435mm
+2024-05-26 23:40:46.093198 - coordinates: 681,436, status: Turning left 436mm
+2024-05-26 23:40:46.686061 - coordinates: 675,428, status: Turning left 428mm
+2024-05-26 23:40:47.279453 - coordinates: 668,426, status: Turning left 426mm
+2024-05-26 23:40:47.878669 - coordinates: 682,425, status: Turning left 425mm
+2024-05-26 23:40:48.477372 - coordinates: 676,427, status: Turning left 427mm
+2024-05-26 23:40:49.074269 - coordinates: 670,425, status: Turning left 425mm
+2024-05-26 23:40:49.684187 - coordinates: 673,427, status: Turning left 427mm
+2024-05-26 23:40:50.346719 - coordinates: 670,425, status: Turning left 425mm
+2024-05-26 23:40:50.946265 - coordinates: 687,455, status: Turning left 455mm
+2024-05-26 23:40:51.528285 - coordinates: 700,499, status: Turning left 499mm
+2024-05-26 23:40:52.143505 - coordinates: 702,494, status: Turning left 494mm
+2024-05-26 23:40:52.730458 - coordinates: 699,493, status: Turning left 493mm
+2024-05-26 23:40:53.316703 - coordinates: 701,494, status: Turning left 494mm
+2024-05-26 23:40:53.910054 - coordinates: 701,493, status: Turning left 493mm
+2024-05-26 23:40:54.499780 - coordinates: 699,486, status: Turning left 486mm
+2024-05-26 23:40:55.084474 - coordinates: 696,486, status: Turning left 486mm
+2024-05-26 23:40:55.678278 - coordinates: 1096,202, status: Turning right202mm
+2024-05-26 23:40:56.295828 - coordinates: 1095,203, status: Turning right203mm
+2024-05-26 23:40:56.894761 - coordinates: 697,485, status: Turning left 485mm
+2024-05-26 23:40:57.484636 - coordinates: 1097,204, status: Turning right204mm
+2024-05-26 23:40:58.100846 - coordinates: 685,479, status: Turning left 479mm
+2024-05-26 23:40:58.719851 - coordinates: 686,479, status: Turning left 479mm
+2024-05-26 23:40:59.283277 - coordinates: 683,476, status: Turning left 476mm
+2024-05-26 23:40:59.879732 - coordinates: 1096,204, status: Turning right204mm
+2024-05-26 23:41:00.478813 - coordinates: 1096,203, status: Turning right203mm
+2024-05-26 23:41:01.046809 - coordinates: 1096,202, status: Turning right202mm
+2024-05-26 23:41:01.647809 - coordinates: 687,491, status: Turning left 491mm
+2024-05-26 23:41:02.250000 - coordinates: 1096,202, status: Turning right202mm
+2024-05-26 23:41:02.864183 - coordinates: 678,423, status: Turning left 423mm
+2024-05-26 23:41:03.465982 - coordinates: 681,426, status: Turning left 426mm
+2024-05-26 23:41:04.066351 - coordinates: 682,458, status: Turning left 458mm
+2024-05-26 23:41:04.651336 - coordinates: 680,471, status: Turning left 471mm
+2024-05-26 23:41:05.244584 - coordinates: 681,479, status: Turning left 479mm
+2024-05-26 23:41:05.846170 - coordinates: 678,486, status: Turning left 486mm
+2024-05-26 23:41:06.461240 - coordinates: 685,442, status: Turning left 442mm
+2024-05-26 23:41:07.059467 - coordinates: 680,441, status: Turning left 441mm
+2024-05-26 23:41:07.627938 - coordinates: 676,436, status: Turning left 436mm
+2024-05-26 23:41:08.213685 - coordinates: 673,439, status: Turning left 439mm
+2024-05-26 23:41:08.815967 - coordinates: 673,440, status: Turning left 440mm
+2024-05-26 23:41:09.396139 - coordinates: 666,445, status: Turning left 445mm
+2024-05-26 23:41:10.052172 - coordinates: 666,451, status: Turning left 451mm
+2024-05-26 23:41:10.580784 - coordinates: 670,453, status: Turning left 453mm
+2024-05-26 23:41:11.183434 - coordinates: 668,453, status: Turning left 453mm
+2024-05-26 23:41:11.785285 - coordinates: 669,454, status: Turning left 454mm
+2024-05-26 23:41:12.367624 - coordinates: 668,455, status: Turning left 455mm
+2024-05-26 23:41:12.978593 - coordinates: 668,459, status: Turning left 459mm
+2024-05-26 23:41:13.562317 - coordinates: 667,460, status: Turning left 460mm
+2024-05-26 23:41:14.163980 - coordinates: 672,466, status: Turning left 466mm
+2024-05-26 23:41:14.743635 - coordinates: 678,479, status: Turning left 479mm
+2024-05-26 23:41:15.332504 - coordinates: 685,445, status: Turning left 445mm
+2024-05-26 23:41:15.967988 - coordinates: 691,438, status: Turning left 438mm
+2024-05-26 23:41:16.560840 - coordinates: 685,430, status: Turning left 430mm
+2024-05-26 23:41:17.154583 - coordinates: 538,381, status: Turning right381mm
+2024-05-26 23:41:17.743058 - coordinates: 667,485, status: Turning left 485mm
+2024-05-26 23:41:18.345722 - coordinates: 678,478, status: Turning left 478mm
+2024-05-26 23:41:18.962089 - coordinates: 684,485, status: Turning left 485mm
+2024-05-26 23:41:19.565029 - coordinates: 682,478, status: Turning left 478mm
+2024-05-26 23:41:20.164482 - coordinates: 685,481, status: Turning left 481mm
+2024-05-26 23:41:20.772670 - coordinates: 686,475, status: Turning left 475mm
+2024-05-26 23:41:21.358449 - coordinates: 682,478, status: Turning left 478mm
+2024-05-26 23:41:22.051058 - coordinates: 681,477, status: Turning left 477mm
+2024-05-26 23:41:22.578643 - coordinates: 683,481, status: Turning left 481mm
+2024-05-26 23:41:23.176381 - coordinates: 688,478, status: Turning left 478mm
+2024-05-26 23:41:23.769232 - coordinates: 689,481, status: Turning left 481mm
+2024-05-26 23:41:24.354438 - coordinates: 688,480, status: Turning left 480mm
+2024-05-26 23:41:24.940207 - coordinates: 698,474, status: Turning left 474mm
+2024-05-26 23:41:25.526302 - coordinates: 700,463, status: Turning left 463mm
+2024-05-26 23:41:26.135994 - coordinates: 696,470, status: Turning left 470mm
+2024-05-26 23:41:26.745299 - coordinates: 691,470, status: Turning left 470mm
+2024-05-26 23:41:27.312403 - coordinates: 686,471, status: Turning left 471mm
+2024-05-26 23:41:27.905901 - coordinates: 681,472, status: Turning left 472mm
+2024-05-26 23:41:28.495974 - coordinates: 679,469, status: Turning left 469mm
+2024-05-26 23:41:29.106250 - coordinates: 678,471, status: Turning left 471mm
+2024-05-26 23:41:29.708914 - coordinates: 679,472, status: Turning left 472mm
+2024-05-26 23:41:30.311612 - coordinates: 678,473, status: Turning left 473mm
+2024-05-26 23:41:30.911532 - coordinates: 682,474, status: Turning left 474mm
+2024-05-26 23:41:31.512170 - coordinates: 685,478, status: Turning left 478mm
+2024-05-26 23:41:32.113111 - coordinates: 684,474, status: Turning left 474mm
+2024-05-26 23:41:32.694561 - coordinates: 684,485, status: Turning left 485mm
+2024-05-26 23:41:33.315230 - coordinates: 687,481, status: Turning left 481mm
+2024-05-26 23:41:33.931761 - coordinates: 687,480, status: Turning left 480mm
+2024-05-26 23:41:34.560952 - coordinates: 690,476, status: Turning left 476mm
+2024-05-26 23:41:35.154632 - coordinates: 685,477, status: Turning left 477mm
+2024-05-26 23:41:35.739229 - coordinates: 686,479, status: Turning left 479mm
+2024-05-26 23:41:36.340503 - coordinates: 682,480, status: Turning left 480mm
+2024-05-26 23:41:36.930479 - coordinates: 685,480, status: Turning left 480mm
+2024-05-26 23:41:37.514555 - coordinates: 685,478, status: Turning left 478mm
+2024-05-26 23:41:38.118139 - coordinates: 1094,204, status: Turning right204mm
+2024-05-26 23:41:38.698575 - coordinates: 683,483, status: Turning left 483mm
+2024-05-26 23:41:39.302902 - coordinates: 677,487, status: Turning left 487mm
+2024-05-26 23:41:39.875763 - coordinates: 681,486, status: Turning left 486mm
+2024-05-26 23:41:40.475197 - coordinates: 681,487, status: Turning left 487mm
+2024-05-26 23:41:41.083304 - coordinates: 1095,206, status: Turning right206mm
+2024-05-26 23:41:41.662369 - coordinates: 677,484, status: Turning left 484mm
+2024-05-26 23:41:42.261218 - coordinates: 673,483, status: Turning left 483mm
+2024-05-26 23:41:42.843709 - coordinates: 1095,204, status: Turning right204mm
+2024-05-26 23:41:43.455051 - coordinates: 670,491, status: Turning left 491mm
+2024-05-26 23:41:44.042117 - coordinates: 672,489, status: Turning left 489mm
+2024-05-26 23:41:44.629735 - coordinates: 1095,204, status: Turning right204mm
+2024-05-26 23:41:45.224106 - coordinates: 669,486, status: Turning left 486mm
+2024-05-26 23:41:45.808415 - coordinates: 670,485, status: Turning left 485mm
+2024-05-26 23:41:46.405841 - coordinates: 673,486, status: Turning left 486mm
+2024-05-26 23:41:47.013904 - coordinates: 673,484, status: Turning left 484mm
+2024-05-26 23:41:47.613060 - coordinates: 670,486, status: Turning left 486mm
+2024-05-26 23:41:48.198076 - coordinates: 672,482, status: Turning left 482mm
+2024-05-26 23:41:48.806079 - coordinates: 673,488, status: Turning left 488mm
+2024-05-26 23:41:49.402489 - coordinates: 672,488, status: Turning left 488mm
+2024-05-26 23:41:49.991080 - coordinates: 672,490, status: Turning left 490mm
+2024-05-26 23:41:50.577066 - coordinates: 679,488, status: Turning left 488mm
+2024-05-26 23:41:51.172228 - coordinates: 1097,203, status: Turning right203mm
+2024-05-26 23:41:51.757610 - coordinates: 678,487, status: Turning left 487mm
+2024-05-26 23:41:52.354739 - coordinates: 673,488, status: Turning left 488mm
+2024-05-26 23:41:52.953864 - coordinates: 676,484, status: Turning left 484mm
+2024-05-26 23:41:53.559836 - coordinates: 676,489, status: Turning left 489mm
+2024-05-26 23:41:54.157652 - coordinates: 674,487, status: Turning left 487mm
+2024-05-26 23:41:54.759327 - coordinates: 679,489, status: Turning left 489mm
+2024-05-26 23:41:55.376717 - coordinates: 682,489, status: Turning left 489mm
+2024-05-26 23:41:55.983717 - coordinates: 682,488, status: Turning left 488mm
+2024-05-26 23:41:56.579700 - coordinates: 683,487, status: Turning left 487mm
+2024-05-26 23:41:57.164223 - coordinates: 681,489, status: Turning left 489mm
+2024-05-26 23:41:57.763986 - coordinates: 681,492, status: Turning left 492mm
+2024-05-26 23:41:58.352987 - coordinates: 689,477, status: Turning left 477mm
+2024-05-26 23:41:58.951171 - coordinates: 686,470, status: Turning left 470mm
+2024-05-26 23:41:59.557289 - coordinates: 681,470, status: Turning left 470mm
+2024-05-26 23:42:00.129132 - coordinates: 681,473, status: Turning left 473mm
+2024-05-26 23:42:00.731076 - coordinates: 680,477, status: Turning left 477mm
+2024-05-26 23:42:01.318581 - coordinates: 681,475, status: Turning left 475mm
+2024-05-26 23:42:01.943409 - coordinates: 682,474, status: Turning left 474mm
+2024-05-26 23:42:02.546652 - coordinates: 688,477, status: Turning left 477mm
+2024-05-26 23:42:03.126440 - coordinates: 691,286, status: Turning right286mm
+2024-05-26 23:42:03.727842 - coordinates: 685,477, status: Turning left 477mm
+2024-05-26 23:42:04.319699 - coordinates: 687,477, status: Turning left 477mm
+2024-05-26 23:42:04.934356 - coordinates: 672,475, status: Turning left 475mm
+2024-05-26 23:42:05.517426 - coordinates: 650,475, status: Turning left 475mm
+2024-05-26 23:42:06.106980 - coordinates: 662,475, status: Turning left 475mm
+2024-05-26 23:42:06.696444 - coordinates: 661,479, status: Turning left 479mm
+2024-05-26 23:42:07.297141 - coordinates: 663,481, status: Turning left 481mm
+2024-05-26 23:42:07.876941 - coordinates: 660,474, status: Turning left 474mm
+2024-05-26 23:42:08.498514 - coordinates: 657,483, status: Turning left 483mm
+2024-05-26 23:42:09.091634 - coordinates: 667,483, status: Turning left 483mm
+2024-05-26 23:42:09.695854 - coordinates: 666,484, status: Turning left 484mm
+2024-05-26 23:42:10.299911 - coordinates: 671,487, status: Turning left 487mm
+2024-05-26 23:42:10.899467 - coordinates: 667,491, status: Turning left 491mm
+2024-05-26 23:42:11.482721 - coordinates: 666,491, status: Turning left 491mm
+2024-05-26 23:42:12.087389 - coordinates: 665,493, status: Turning left 493mm
+2024-05-26 23:42:12.672284 - coordinates: 671,490, status: Turning left 490mm
+2024-05-26 23:42:13.267631 - coordinates: 673,490, status: Turning left 490mm
+2024-05-26 23:42:13.903544 - coordinates: 675,496, status: Turning left 496mm
+2024-05-26 23:42:14.491863 - coordinates: 673,492, status: Turning left 492mm
+2024-05-26 23:42:15.090107 - coordinates: 673,494, status: Turning left 494mm
+2024-05-26 23:42:15.680946 - coordinates: 671,494, status: Turning left 494mm
+2024-05-26 23:42:16.293434 - coordinates: 1097,207, status: Turning right207mm
+2024-05-26 23:42:16.879782 - coordinates: 683,496, status: Turning left 496mm
+2024-05-26 23:42:17.475497 - coordinates: 678,495, status: Turning left 495mm
+2024-05-26 23:42:18.063087 - coordinates: 678,495, status: Turning left 495mm
+2024-05-26 23:42:18.658754 - coordinates: 678,493, status: Turning left 493mm
+2024-05-26 23:42:19.247993 - coordinates: 677,496, status: Turning left 496mm
+2024-05-26 23:42:19.846148 - coordinates: 972,414, status: Turning left 414mm
+2024-05-26 23:42:20.428829 - coordinates: 681,495, status: Turning left 495mm
+2024-05-26 23:42:21.684385 - coordinates: 682,499, status: Turning left 499mm
+2024-05-26 23:42:22.275505 - coordinates: 690,296, status: Turning right296mm
+2024-05-26 23:42:22.893174 - coordinates: 687,297, status: Turning right297mm
+2024-05-26 23:42:23.459151 - coordinates: 681,497, status: Turning left 497mm
+2024-05-26 23:42:24.063496 - coordinates: 688,296, status: Turning right296mm
+2024-05-26 23:42:24.655596 - coordinates: 680,496, status: Turning left 496mm
+2024-05-26 23:42:25.252247 - coordinates: 683,497, status: Turning left 497mm
+2024-05-26 23:42:25.845522 - coordinates: 681,500, status: Turning left 500mm
+2024-05-26 23:42:26.447388 - coordinates: 681,498, status: Turning left 498mm
+2024-05-26 23:42:27.060683 - coordinates: 682,496, status: Turning left 496mm
+2024-05-26 23:42:27.665405 - coordinates: 687,496, status: Turning left 496mm
+2024-05-26 23:42:28.256042 - coordinates: 689,297, status: Turning right297mm
+2024-05-26 23:42:28.836419 - coordinates: 681,499, status: Turning left 499mm
+2024-05-26 23:42:29.430621 - coordinates: 689,296, status: Turning right296mm
+2024-05-26 23:42:30.033580 - coordinates: 681,495, status: Turning left 495mm
+2024-05-26 23:42:30.624393 - coordinates: 677,494, status: Turning left 494mm
+2024-05-26 23:42:31.208416 - coordinates: 679,497, status: Turning left 497mm
+2024-05-26 23:42:31.791643 - coordinates: 684,497, status: Turning left 497mm
+2024-05-26 23:42:32.376402 - coordinates: 683,500, status: Turning left 500mm
+2024-05-26 23:42:32.974295 - coordinates: 686,495, status: Turning left 495mm
+2024-05-26 23:42:33.544745 - coordinates: 728,491, status: Turning left 491mm
+2024-05-26 23:42:34.181946 - coordinates: no face detected, status: No face detected
+2024-05-26 23:42:34.802051 - coordinates: no face detected, status: No face detected
+2024-05-26 23:42:35.394975 - coordinates: 711,502, status: Turning left 502mm
+2024-05-26 23:42:36.022771 - coordinates: 720,502, status: Turning left 502mm
+2024-05-26 23:42:36.623555 - coordinates: 719,494, status: Turning left 494mm
+2024-05-26 23:42:37.229916 - coordinates: 713,490, status: Turning left 490mm
+2024-05-26 23:42:37.828765 - coordinates: 722,494, status: Turning left 494mm
+2024-05-26 23:42:38.435130 - coordinates: 737,489, status: Turning left 489mm
+2024-05-26 23:42:39.041236 - coordinates: 748,487, status: Turning left 487mm
+2024-05-26 23:42:39.651474 - coordinates: 782,490, status: Turning left 490mm
+2024-05-26 23:42:40.240096 - coordinates: 748,501, status: Turning left 501mm
+2024-05-26 23:42:40.824800 - coordinates: 737,497, status: Turning left 497mm
+2024-05-26 23:42:41.427002 - coordinates: 734,486, status: Turning left 486mm
+2024-05-26 23:42:42.035983 - coordinates: 722,477, status: Turning left 477mm
+2024-05-26 23:42:42.621437 - coordinates: 745,486, status: Turning left 486mm
+2024-05-26 23:42:43.217611 - coordinates: no face detected, status: No face detected
+2024-05-26 23:42:43.818515 - coordinates: no face detected, status: No face detected
+2024-05-26 23:42:44.422442 - coordinates: 739,488, status: Turning left 488mm
+2024-05-26 23:42:44.976563 - coordinates: 733,485, status: Turning left 485mm
+2024-05-26 23:42:45.583773 - coordinates: 718,482, status: Turning left 482mm
+2024-05-26 23:42:46.194222 - coordinates: 708,481, status: Turning left 481mm
+2024-05-26 23:42:46.780323 - coordinates: 714,484, status: Turning left 484mm
+2024-05-26 23:42:47.356223 - coordinates: 699,485, status: Turning left 485mm
+2024-05-26 23:42:47.991157 - coordinates: 702,479, status: Turning left 479mm
+2024-05-26 23:42:48.558120 - coordinates: 714,475, status: Turning left 475mm
+2024-05-26 23:42:49.170410 - coordinates: 729,480, status: Turning left 480mm
+2024-05-26 23:42:49.766311 - coordinates: 730,481, status: Turning left 481mm
+2024-05-26 23:42:50.407265 - coordinates: 719,466, status: Turning left 466mm
+2024-05-26 23:42:50.958479 - coordinates: 720,471, status: Turning left 471mm
+2024-05-26 23:42:51.609358 - coordinates: 715,470, status: Turning left 470mm
+2024-05-26 23:42:52.196964 - coordinates: 722,471, status: Turning left 471mm
+2024-05-26 23:42:52.809964 - coordinates: 718,467, status: Turning left 467mm
+2024-05-26 23:42:53.407889 - coordinates: 724,469, status: Turning left 469mm
+2024-05-26 23:42:54.009036 - coordinates: 715,475, status: Turning left 475mm
+2024-05-26 23:42:54.615512 - coordinates: 706,474, status: Turning left 474mm
+2024-05-26 23:42:55.200813 - coordinates: 702,471, status: Turning left 471mm
+2024-05-26 23:42:55.792090 - coordinates: 698,464, status: Turning left 464mm
+2024-05-26 23:42:56.395815 - coordinates: 691,459, status: Turning left 459mm
+2024-05-26 23:42:56.982057 - coordinates: 696,457, status: Turning left 457mm
+2024-05-26 23:42:57.578487 - coordinates: 706,459, status: Turning left 459mm
+2024-05-26 23:42:58.209987 - coordinates: 704,460, status: Turning left 460mm
+2024-05-26 23:42:58.782402 - coordinates: 701,467, status: Turning left 467mm
+2024-05-26 23:42:59.397333 - coordinates: 712,471, status: Turning left 471mm
+2024-05-26 23:43:00.009774 - coordinates: 713,473, status: Turning left 473mm
+2024-05-26 23:43:00.607938 - coordinates: 716,478, status: Turning left 478mm
+2024-05-26 23:43:01.218330 - coordinates: 1102,206, status: Turning right206mm
+2024-05-26 23:43:01.810579 - coordinates: 715,480, status: Turning left 480mm
+2024-05-26 23:43:02.419886 - coordinates: 717,480, status: Turning left 480mm
+2024-05-26 23:43:03.003640 - coordinates: 716,480, status: Turning left 480mm
+2024-05-26 23:43:03.589383 - coordinates: 720,474, status: Turning left 474mm
+2024-05-26 23:43:04.208832 - coordinates: 676,469, status: Turning left 469mm
+2024-05-26 23:43:04.806598 - coordinates: 671,463, status: Turning left 463mm
+2024-05-26 23:43:05.413317 - coordinates: 694,473, status: Turning left 473mm
+2024-05-26 23:43:06.008964 - coordinates: 707,476, status: Turning left 476mm
+2024-05-26 23:43:06.692838 - coordinates: 697,477, status: Turning left 477mm
+2024-05-26 23:43:07.278615 - coordinates: 703,480, status: Turning left 480mm
+2024-05-26 23:43:07.880629 - coordinates: 699,478, status: Turning left 478mm
+2024-05-26 23:43:08.477308 - coordinates: 694,476, status: Turning left 476mm
+2024-05-26 23:43:09.073308 - coordinates: 689,479, status: Turning left 479mm
+2024-05-26 23:43:09.657864 - coordinates: 695,479, status: Turning left 479mm
+2024-05-26 23:43:10.266477 - coordinates: 700,476, status: Turning left 476mm
+2024-05-26 23:43:10.876296 - coordinates: 700,478, status: Turning left 478mm
+2024-05-26 23:43:11.473001 - coordinates: 702,481, status: Turning left 481mm
+2024-05-26 23:43:12.064709 - coordinates: 703,480, status: Turning left 480mm
+2024-05-26 23:43:12.673571 - coordinates: 702,481, status: Turning left 481mm
+2024-05-26 23:43:13.273696 - coordinates: 703,483, status: Turning left 483mm
+2024-05-26 23:43:13.874568 - coordinates: 704,483, status: Turning left 483mm
+2024-05-26 23:43:14.474217 - coordinates: 704,486, status: Turning left 486mm
+2024-05-26 23:43:15.063649 - coordinates: 708,487, status: Turning left 487mm
+2024-05-26 23:43:15.664474 - coordinates: 712,491, status: Turning left 491mm
+2024-05-26 23:43:16.263530 - coordinates: 710,488, status: Turning left 488mm
+2024-05-26 23:43:16.854364 - coordinates: 705,468, status: Turning left 468mm
+2024-05-26 23:43:17.457085 - coordinates: 700,459, status: Turning left 459mm
+2024-05-26 23:43:18.056945 - coordinates: 702,461, status: Turning left 461mm
+2024-05-26 23:43:18.663481 - coordinates: 711,473, status: Turning left 473mm
+2024-05-26 23:43:19.256596 - coordinates: 711,474, status: Turning left 474mm
+2024-05-26 23:43:19.886369 - coordinates: 708,471, status: Turning left 471mm
+2024-05-26 23:43:20.474505 - coordinates: 706,464, status: Turning left 464mm
+2024-05-26 23:43:21.078904 - coordinates: 682,458, status: Turning left 458mm
+2024-05-26 23:43:21.648757 - coordinates: 683,463, status: Turning left 463mm
+2024-05-26 23:43:22.259340 - coordinates: 681,463, status: Turning left 463mm
+2024-05-26 23:43:22.885574 - coordinates: 720,482, status: Turning left 482mm
+2024-05-26 23:43:23.494761 - coordinates: 711,485, status: Turning left 485mm
+2024-05-26 23:43:24.096723 - coordinates: 682,484, status: Turning left 484mm
+2024-05-26 23:43:24.698359 - coordinates: 715,477, status: Turning left 477mm
