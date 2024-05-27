@@ -23,13 +23,13 @@ def handle_client(conn, addr):
             x, y = map(int, message.split(','))
             status = determine_status(y)
         recent_data.append((datetime.now(), message, status))
-        print(f"Received coordinates: {message}, status={status}")
+        print(f"Received coordinates: {message}, status={status} ")
 
 def determine_status(distance_mm):
     if distance_mm > 500:
-        return "Turning left"
+        return "Turning left " + str(distance_mm) +"mm"
     else:
-        return "Turning right"
+        return "Turning right" + str(distance_mm) +"mm"
 
 def log_data():
     while True:
