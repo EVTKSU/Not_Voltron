@@ -26,7 +26,7 @@ def handle_client(conn, addr):
         print(f"Received coordinates: {message}, status={status} ")
 
 def determine_status(distance_mm):
-    if distance_mm > 500:
+    if distance_mm > 400:
         return "Turning left " + str(distance_mm) +"mm"
     else:
         return "Turning right" + str(distance_mm) +"mm"
@@ -54,7 +54,7 @@ def display_status():
     global status
     while True:
         print(f"Current status: {status}")
-        time.sleep(1)
+        time.sleep(0.1)
 
 if __name__ == "__main__":
     # Start server thread
