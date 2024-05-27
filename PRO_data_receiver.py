@@ -26,7 +26,7 @@ def handle_client(conn, addr):
         print(f"Received coordinates: {message}, status={status}")
 
 def determine_status(distance_mm):
-    if distance_mm > 200:
+    if distance_mm > 500:
         return "Turning left"
     else:
         return "Turning right"
