@@ -1,0 +1,75 @@
+2024-05-26 23:06:10.358044 - x=580, y=755, status=Turning right
+2024-05-26 23:06:50.436536 - x=581, y=756, status=Turning right
+2024-05-26 23:07:10.482839 - x=625, y=733, status=Turning right
+2024-05-26 23:07:25.484922 - x=627, y=736, status=Turning right
+2024-05-26 23:10:54.597802 - coordinates: no face detected, status: No face detected
+2024-05-26 23:10:55.280378 - coordinates: no face detected, status: No face detected
+2024-05-26 23:10:55.914041 - coordinates: no face detected, status: No face detected
+2024-05-26 23:10:56.604219 - coordinates: no face detected, status: No face detected
+2024-05-26 23:10:57.279870 - coordinates: no face detected, status: No face detected
+2024-05-26 23:10:57.912989 - coordinates: no face detected, status: No face detected
+2024-05-26 23:10:58.567229 - coordinates: no face detected, status: No face detected
+2024-05-26 23:10:59.222538 - coordinates: no face detected, status: No face detected
+2024-05-26 23:10:59.908971 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:00.552459 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:01.248327 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:01.887865 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:02.522319 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:03.155427 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:03.821886 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:04.435187 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:05.401838 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:06.288571 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:07.391028 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:08.565881 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:09.744388 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:10.901607 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:12.062040 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:13.165219 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:14.277283 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:15.426887 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:16.595796 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:17.705866 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:18.821456 - coordinates: 930,508, status: Turning right
+2024-05-26 23:11:19.925121 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:20.920570 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:21.936466 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:23.113996 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:24.311974 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:25.571163 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:26.352685 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:27.459632 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:28.519135 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:29.611950 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:30.646898 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:31.328742 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:32.515287 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:33.548552 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:34.634067 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:35.779754 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:36.773548 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:37.840638 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:39.007712 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:40.157881 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:41.363837 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:42.547859 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:43.662981 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:44.876866 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:45.874932 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:46.965745 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:48.228669 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:49.392443 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:50.437818 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:51.335680 - coordinates: no face detected, status: No face detected
+2024-05-26 23:11:52.237765 - coordinates: 674,291, status: Turning right
+2024-05-26 23:11:53.230801 - coordinates: 693,286, status: Turning right
+2024-05-26 23:11:54.253532 - coordinates: 691,268, status: Turning right
+2024-05-26 23:11:55.113017 - coordinates: 692,236, status: Turning right
+2024-05-26 23:11:55.846999 - coordinates: 688,227, status: Turning right
+2024-05-26 23:11:56.811556 - coordinates: 687,218, status: Turning right
+2024-05-26 23:11:57.810589 - coordinates: 683,281, status: Turning right
+2024-05-26 23:11:58.836880 - coordinates: 672,323, status: Turning right
+2024-05-26 23:11:59.821684 - coordinates: 662,320, status: Turning right
+2024-05-26 23:12:00.790706 - coordinates: 659,234, status: Turning right
+2024-05-26 23:12:01.736383 - coordinates: 714,242, status: Turning right
+2024-05-26 23:12:02.502547 - coordinates: 600,444, status: Turning right
