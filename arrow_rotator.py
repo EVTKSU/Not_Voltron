@@ -71,12 +71,19 @@ def rotate_arrow(y_coordinate):
     
     # Rotate the arrow based on the y-coordinate (distance) thresholds
     if y_coordinate < 200:
+        # Rotate 90 degrees counterclockwise if distance is less than 200mm
         rotated_arrow = cv2.rotate(arrow_resized, cv2.ROTATE_90_COUNTERCLOCKWISE)
-    #100mm of ~safe zone~    
-    elif y_coordinate > 300:
+    elif y_coordinate > 400:
+        # Rotate 90 degrees clockwise if distance is greater than 400mm
         rotated_arrow = cv2.rotate(arrow_resized, cv2.ROTATE_90_CLOCKWISE)
     else:
-        rotated_arrow = arrow_resized  # No rotation if within the range
+        # Point straight up if distance is between 200mm and 400mm
+        rotated_arrow = arrow_resized  # No rotation needed for pointing straight up
+    
+    # Display the rotated arrow image using OpenCV
+    cv2.imshow("Rotated Arrow", rotated_arrow)
+    cv2.waitKey(1)  # Display the image for 1 ms
+
 
     # Display the rotated arrow image using OpenCV
     cv2.imshow("Rotated Arrow", rotated_arrow)
