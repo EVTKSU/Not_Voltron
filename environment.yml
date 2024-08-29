@@ -1,0 +1,7 @@
+name: Wills_Enviornment
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pip:
+    - -r requirements.txt
