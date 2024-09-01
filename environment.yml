@@ -1,7 +1,0 @@
-name: my_env
-channels:
-  - defaults
-dependencies:
-  - pip
-  - pip:
-    - -r requirements.txt
