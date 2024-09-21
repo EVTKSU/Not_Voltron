@@ -1,0 +1,3 @@
+[console_scripts]
+oakd_camera_node = oakd_camera_node:main
+

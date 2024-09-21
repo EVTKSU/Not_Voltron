@@ -1,0 +1,32 @@
+[0.317s] Invoking command in '/home/buba/evt/Not_Voltron/oak_d_ws/src/oakd_camera_node': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/oakd_camera_node build --build-base /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build install --record /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/install.log --single-version-externally-managed
+[0.442s] running egg_info
+[0.442s] creating ../../build/oakd_camera_node/oakd_camera_node.egg-info
+[0.442s] writing ../../build/oakd_camera_node/oakd_camera_node.egg-info/PKG-INFO
+[0.442s] writing dependency_links to ../../build/oakd_camera_node/oakd_camera_node.egg-info/dependency_links.txt
+[0.443s] writing entry points to ../../build/oakd_camera_node/oakd_camera_node.egg-info/entry_points.txt
+[0.443s] writing requirements to ../../build/oakd_camera_node/oakd_camera_node.egg-info/requires.txt
+[0.443s] writing top-level names to ../../build/oakd_camera_node/oakd_camera_node.egg-info/top_level.txt
+[0.443s] writing manifest file '../../build/oakd_camera_node/oakd_camera_node.egg-info/SOURCES.txt'
+[0.444s] reading manifest file '../../build/oakd_camera_node/oakd_camera_node.egg-info/SOURCES.txt'
+[0.444s] adding license file 'LICENSE'
+[0.444s] writing manifest file '../../build/oakd_camera_node/oakd_camera_node.egg-info/SOURCES.txt'
+[0.444s] running build
+[0.444s] running build_py
+[0.444s] creating /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build
+[0.444s] creating /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build/lib
+[0.444s] creating /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build/lib/oakd_camera_node
+[0.444s] copying oakd_camera_node/__init__.py -> /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build/lib/oakd_camera_node
+[0.444s] copying oakd_camera_node/oakd_camera_node.py -> /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build/lib/oakd_camera_node
+[0.444s] running install
+[0.445s] running install_lib
+[0.445s] creating /home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/python3.10/site-packages/oakd_camera_node
+[0.446s] copying /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build/lib/oakd_camera_node/__init__.py -> /home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/python3.10/site-packages/oakd_camera_node
+[0.446s] copying /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build/lib/oakd_camera_node/oakd_camera_node.py -> /home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/python3.10/site-packages/oakd_camera_node
+[0.446s] byte-compiling /home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/python3.10/site-packages/oakd_camera_node/__init__.py to __init__.cpython-310.pyc
+[0.446s] byte-compiling /home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/python3.10/site-packages/oakd_camera_node/oakd_camera_node.py to oakd_camera_node.cpython-310.pyc
+[0.447s] running install_egg_info
+[0.448s] Copying ../../build/oakd_camera_node/oakd_camera_node.egg-info to /home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/python3.10/site-packages/oakd_camera_node-0.0.1-py3.10.egg-info
+[0.448s] running install_scripts
+[0.461s] Installing oakd_camera_node script to /home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/oakd_camera_node
+[0.461s] writing list of installed files to '/home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/install.log'
+[0.476s] Invoked command in '/home/buba/evt/Not_Voltron/oak_d_ws/src/oakd_camera_node' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/buba/evt/Not_Voltron/oak_d_ws/install/oakd_camera_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/oakd_camera_node build --build-base /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/build install --record /home/buba/evt/Not_Voltron/oak_d_ws/build/oakd_camera_node/install.log --single-version-externally-managed

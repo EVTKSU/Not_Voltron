@@ -1,0 +1,4 @@
+cv_bridge
+depthai
+opencv-python
+setuptools
