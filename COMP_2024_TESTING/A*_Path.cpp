@@ -1,83 +1,86 @@
-#include <vector>
 #include <iostream>
-#include <algorithm>
-#include <random>
+#include <vector>
+#include <queue>
+#include <utility>
+#include <cstdlib>
 #include <ctime>
 
-using namespace std;
+void generate_maze(int width, int height, std::vector<std::vector<char> >& maze) {
+    // Initialize the maze
+    maze = std::vector<std::vector<char> >(height, std::vector<char>(width, '*'));
 
-class Solution {
-public:
-    void maze(vector<vector<char>>& map) {
-        // Initialize the maze
-        for (int i = 0; i < map.size(); ++i) {
-            for (int j = 0; j < map[0].size(); ++j) {
-                if (i % 2 == 0) {
-                    map[i][j] = '+';
-                } else {
-                    map[i][j] = ' '; 
+    // Start position
+    std::stack<std::pair<int, int> > stack;
+    stack.push(std::make_pair(2, 2));
+    maze[2][2] = ' ';
+
+    //random seed
+    std::srand(std::time(NULL));
+
+    while (!stack.empty()) {
+        int x = stack.top().first;
+        int y = stack.top().second;
+        std::vector<std::pair<int, int> > neighbors;
+
+        // Check for valid cells (moving 2 cells at a time)
+        std::vector<std::pair<int, int> > directions;
+        directions.push_back(std::make_pair(-2, 0));
+        directions.push_back(std::make_pair(2, 0));
+        directions.push_back(std::make_pair(0, -2));
+        directions.push_back(std::make_pair(0, 2));
+
+        for (size_t i = 0; i < directions.size(); ++i) {
+            int nx = x + directions[i].first;
+            int ny = y + directions[i].second;
+
+            if (nx >= 2 && nx < width - 2 && ny >= 2 && ny < height - 2) {
+                if (maze[ny][nx] == '*') {
+                    neighbors.push_back(std::make_pair(nx, ny));
                 }
-
-                if (i % 2 == 0 && j % 2 != 0) {
-                    map[i][j] = '-';
-                } else if (i % 2 != 0 && j % 2 == 0) {
-                    map[i][j] = '|';
-                }
             }
         }
 
+        if (!neighbors.empty()) {
+            // Choose a random cell to create a path
+            int rand_index = std::rand() % neighbors.size();
+            int nx = neighbors[rand_index].first;
+            int ny = neighbors[rand_index].second;
 
-        _maze(map, 1, 1);
-    }
+            // Carve a wider path by clearing multiple cells
+            int mid_x = (x + nx) / 2;
+            int mid_y = (y + ny) / 2;
 
-    void showMaze(const vector<vector<char>>& map) const {
-        for (const auto& row : map) {
-            for (const auto& cell : row) {
-                cout << cell;
-            }
-            cout << endl;
+            maze[mid_y][mid_x] = ' ';
+            maze[ny][nx] = ' ';
+            maze[y][mid_x] = ' ';
+            maze[mid_y][x] = ' ';
+
+            stack.push(std::make_pair(nx, ny));
+        } else {
+            stack.pop();
         }
     }
+}
 
-    void _maze(vector<vector<char>>& map, int i, int j) {
-        static const int directions[4][2] = {{0, 2}, {0, -2}, {2, 0}, {-2, 0}}; // Right, Left, Down, Up
-        int visitOrder[4] = {0, 1, 2, 3};
-
-        // Random map maker
-        shuffle(begin(visitOrder), end(visitOrder), mt19937{random_device{}()});
-
-        for (int k = 0; k < 4; ++k) {
-            int ni = i + directions[visitOrder[k]][0];
-            int nj = j + directions[visitOrder[k]][1];
-
-            
-            if (ni > 0 && nj > 0 && ni < map.size() - 1 && nj < map[0].size() - 1 && map[ni][nj] == ' ') {
-                continue; 
-            }
-
-            
-            if (ni > 0 && nj > 0 && ni < map.size() - 1 && nj < map[0].size() - 1) {
-               
-                map[i + (ni - i) / 2][j + (nj - j) / 2] = ' ';
-                map[ni][nj] = ' ';
-
-                
-                _maze(map, ni, nj);
-            }
+void print_maze(const std::vector<std::vector<char> >& maze) {
+    for (size_t i = 0; i < maze.size(); ++i) {
+        for (size_t j = 0; j < maze[i].size(); ++j) {
+            std::cout << maze[i][j];
         }
+        std::cout << std::endl;
     }
-};
+}
 
 int main() {
-    Solution s;
-    int height = 11; // Must be odd 
-    int width = 11;  // Must be odd 
+    // Maze dimensions (should be odd numbers)
+    int width = 41;
+    int height = 21;
 
-    vector<char> row(width);
-    vector<vector<char>> map(height, row);
+    std::vector<std::vector<char> > maze;
 
-    s.maze(map);     // Generate the maze
-    s.showMaze(map); // Display the maze
+    generate_maze(width, height, maze);
+
+    print_maze(maze);
 
     return 0;
 }
