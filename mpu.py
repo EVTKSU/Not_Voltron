@@ -1,8 +1,8 @@
 # -----------------/ Module Imports \--------------------- #
 
 import time
-import adafruit_lsm9ds1
 import board
+import adafruit_mpu6050
 
 # -------------------------------------------------------- #
 
@@ -10,14 +10,14 @@ import board
 
 # -----------------/ General Notes \---------------------- #
 """
-
+The I2C address of the MPU6050 is 0x68 by default
 """
 # -------------------------------------------------------- #
 
 
 
-class IMU:
-    """Class for data readings of an Adafruit LSM9DS1 9DoF IMU sensor 
+class MPU:
+    """Class for data readings of a MPU6050 6DoF IMU sensor 
     """
 
     X_AXIS: int = 0
@@ -27,13 +27,10 @@ class IMU:
 
     def __init__(self) -> None:
         self.i2c = board.I2C()
-        self.sensor = adafruit_lsm9ds1.LSM9DS1_I2C(self.i2c)
+        self.sensor = adafruit_mpu6050.MPU6050(self.i2c)
 
         self.accel_x, self.accel_y, self.accel_z = self.sensor.acceleration
         self.accel: tuple = (self.accel_x, self.accel_y, self.accel_z)
-
-        self.mag_x, self.mag_y, self.mag_z = self.sensor.magnetic
-        self.mag: tuple = (self.mag_x, self.mag_y, self.mag_z)
 
         self.gyro_x, self.gyro_y, self.gyro_z = self.sensor.gyro
         self.gyro = (self.gyro_x, self.gyro_y, self.gyro_z)
@@ -45,7 +42,6 @@ class IMU:
 
         self.velocity: list = [0.0, 0.0, 0.0]            # Velocity values
         self.position: list = [0.0, 0.0, 0.0]            # Position values
-    
 
 
     def update_sensor_values(self) -> None:
@@ -55,9 +51,6 @@ class IMU:
         # Updates sensor tuples 
         self.accel_x, self.accel_y, self.accel_z = self.sensor.acceleration
         self.accel: tuple = (self.accel_x, self.accel_y, self.accel_z)
-
-        self.mag_x, self.mag_y, self.mag_z = self.sensor.magnetic
-        self.mag: tuple = (self.mag_x, self.mag_y, self.mag_z)
 
         self.gyro_x, self.gyro_y, self.gyro_z = self.sensor.gyro
         self.gyro = (self.gyro_x, self.gyro_y, self.gyro_z)
@@ -99,17 +92,6 @@ class IMU:
 
 
 
-    def get_mag_values(self) -> tuple:
-        """Gets the values of the magnetometer
-
-        Returns:
-            tuple: Magnetometer values (x, y, z)
-        """
-
-        return self.mag
-
-
-
     def get_temperature(self) -> float:
         """Gets the temperature value in degrees celcius
 
@@ -125,7 +107,7 @@ class IMU:
         """Sets the gyroscope value range (deg/s)
         """
 
-        self.sensor.gyro_scale = range
+        self.sensor.gyro_range = range
 
 
     
@@ -133,13 +115,4 @@ class IMU:
         """Sets the accelerometer value range (m/s^2)
         """
 
-        self.sensor.accel_range = range
-
-    
-
-    def set_mag_range(self, range) -> None:
-        """Sets the magnetometer value range (gauss)
-        """
-
-        self.sensor.mag_gain = range
-
+        self.sensor.accelerometer_range = range
