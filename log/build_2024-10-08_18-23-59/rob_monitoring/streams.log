@@ -1,0 +1,35 @@
+[0.594s] Invoking command in '/home/sam/ros2_ws/src/rob_monitoring': PYTHONPATH=/home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/rob_monitoring build --build-base /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build install --record /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/install.log --single-version-externally-managed install_data
+[0.714s] running egg_info
+[0.714s] creating build/rob_monitoring/rob_monitoring.egg-info
+[0.723s] writing build/rob_monitoring/rob_monitoring.egg-info/PKG-INFO
+[0.723s] writing dependency_links to build/rob_monitoring/rob_monitoring.egg-info/dependency_links.txt
+[0.723s] writing requirements to build/rob_monitoring/rob_monitoring.egg-info/requires.txt
+[0.723s] writing top-level names to build/rob_monitoring/rob_monitoring.egg-info/top_level.txt
+[0.723s] writing manifest file 'build/rob_monitoring/rob_monitoring.egg-info/SOURCES.txt'
+[0.741s] reading manifest file 'build/rob_monitoring/rob_monitoring.egg-info/SOURCES.txt'
+[0.742s] writing manifest file 'build/rob_monitoring/rob_monitoring.egg-info/SOURCES.txt'
+[0.742s] running build
+[0.742s] running build_py
+[0.742s] creating /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build
+[0.742s] creating /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build/lib
+[0.742s] creating /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build/lib/rob_monitoring
+[0.743s] copying rob_monitoring/__init__.py -> /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build/lib/rob_monitoring
+[0.743s] copying rob_monitoring/monitoring_node.py -> /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build/lib/rob_monitoring
+[0.743s] running install
+[0.746s] running install_lib
+[0.755s] creating /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring
+[0.756s] copying /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build/lib/rob_monitoring/__init__.py -> /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring
+[0.756s] copying /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build/lib/rob_monitoring/monitoring_node.py -> /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring
+[0.756s] byte-compiling /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring/__init__.py to __init__.cpython-312.pyc
+[0.756s] byte-compiling /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring/monitoring_node.py to monitoring_node.cpython-312.pyc
+[0.757s] running install_data
+[0.757s] creating /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/share/ament_index
+[0.757s] creating /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/share/ament_index/resource_index
+[0.757s] creating /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/share/ament_index/resource_index/packages
+[0.757s] copying resource/rob_monitoring -> /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/share/ament_index/resource_index/packages
+[0.757s] copying package.xml -> /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/share/rob_monitoring
+[0.758s] running install_egg_info
+[0.767s] Copying build/rob_monitoring/rob_monitoring.egg-info to /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring-0.0.0-py3.12.egg-info
+[0.767s] running install_scripts
+[0.826s] writing list of installed files to '/home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/install.log'
+[0.842s] Invoked command in '/home/sam/ros2_ws/src/rob_monitoring' returned '0': PYTHONPATH=/home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/rob_monitoring build --build-base /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build install --record /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/install.log --single-version-externally-managed install_data

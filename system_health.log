@@ -1,0 +1,2421 @@
+INFO:root:System performance: CPU usage=0.3%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.8%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.1%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.1%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.1%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.0%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.0%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.0%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.0%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.7%, Memory usage=9.0%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.1%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.6%, Memory usage=8.8%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.7%, Memory usage=9.1%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.1%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.7%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=1.6%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.6%, Memory usage=9.0%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=1.6%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.0%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.7%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=8.9%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.6%, Memory usage=9.2%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.2%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=8.9%
+INFO:root:System performance: CPU usage=0.8%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=2.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=1.5%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.2%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:System performance: CPU usage=0.6%, Memory usage=9.6%
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.6%
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.6%
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.1, y=0.2, z=0.3, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:System performance: CPU usage=1.1%, Memory usage=9.5%
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.6%
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.6%
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.6%
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:LIDAR data: Ranges=array('f', [1.0, 2.0, 3.0])
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=1.5%, Memory usage=9.6%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.6%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.6%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=123, nanosec=456)
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.6%, Memory usage=9.5%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:Control response: missed
+ERROR:root:Missed control command
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.4%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.7%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=9.6%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.6%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.6%, Memory usage=10.0%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.4%, Memory usage=10.0%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=10.0%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=10.1%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=10.1%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.8%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.7%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.7%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.8%, Memory usage=10.1%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.2%, Memory usage=10.1%
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:Control response: received
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=1.6%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.3%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=1.7%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.7%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=4.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.9%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=2.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.9%, Memory usage=10.1%
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:System performance: CPU usage=0.4%, Memory usage=10.1%
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:System performance: CPU usage=0.3%, Memory usage=10.1%
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:IMU data: Orientation=geometry_msgs.msg.Quaternion(x=0.0, y=0.0, z=0.0, w=1.0), Angular velocity=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0), Linear acceleration=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=1.7%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=1.4%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.7%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=1.7%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.8%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.8%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:System performance: CPU usage=0.9%, Memory usage=10.1%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:System performance: CPU usage=0.1%, Memory usage=10.1%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:System performance: CPU usage=0.1%, Memory usage=10.1%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:System performance: CPU usage=0.2%, Memory usage=10.1%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:System performance: CPU usage=0.2%, Memory usage=10.1%
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:OAK-D Image data received at time: builtin_interfaces.msg.Time(sec=0, nanosec=0)
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.5%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.7%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.3%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.6%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.4%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%
+INFO:root:System performance: CPU usage=0.1%, Memory usage=9.4%
+INFO:root:System performance: CPU usage=0.2%, Memory usage=9.5%

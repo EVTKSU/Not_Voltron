@@ -1,0 +1,2 @@
+[console_scripts]
+monitoring_node = rob_monitoring.monitoring_node:main

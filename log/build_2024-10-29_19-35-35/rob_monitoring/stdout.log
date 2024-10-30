@@ -1,0 +1,22 @@
+running egg_info
+writing build/rob_monitoring/rob_monitoring.egg-info/PKG-INFO
+writing dependency_links to build/rob_monitoring/rob_monitoring.egg-info/dependency_links.txt
+writing entry points to build/rob_monitoring/rob_monitoring.egg-info/entry_points.txt
+writing requirements to build/rob_monitoring/rob_monitoring.egg-info/requires.txt
+writing top-level names to build/rob_monitoring/rob_monitoring.egg-info/top_level.txt
+reading manifest file 'build/rob_monitoring/rob_monitoring.egg-info/SOURCES.txt'
+writing manifest file 'build/rob_monitoring/rob_monitoring.egg-info/SOURCES.txt'
+running build
+running build_py
+copying rob_monitoring/monitoring_node.py -> /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build/lib/rob_monitoring
+running install
+running install_lib
+copying /home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/build/lib/rob_monitoring/monitoring_node.py -> /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring
+byte-compiling /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring/monitoring_node.py to monitoring_node.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring-0.0.0-py3.12.egg-info' (and everything under it)
+Copying build/rob_monitoring/rob_monitoring.egg-info to /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/python3.12/site-packages/rob_monitoring-0.0.0-py3.12.egg-info
+running install_scripts
+Installing monitoring_node script to /home/sam/ros2_ws/src/rob_monitoring/install/rob_monitoring/lib/rob_monitoring
+writing list of installed files to '/home/sam/ros2_ws/src/rob_monitoring/build/rob_monitoring/install.log'

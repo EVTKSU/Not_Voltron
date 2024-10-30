@@ -1,0 +1,6 @@
+source;share/rob_monitoring/hook/pythonpath.ps1
+source;share/rob_monitoring/hook/pythonpath.dsv
+source;share/rob_monitoring/hook/pythonpath.sh
+source;share/rob_monitoring/hook/ament_prefix_path.ps1
+source;share/rob_monitoring/hook/ament_prefix_path.dsv
+source;share/rob_monitoring/hook/ament_prefix_path.sh
