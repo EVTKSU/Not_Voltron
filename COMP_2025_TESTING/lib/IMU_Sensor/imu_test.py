@@ -32,6 +32,8 @@ Temperature is measured in celcius
 imu = IMU() # LSM9DS1 Sensor
 mpu = MPU() # MPU6050 Sensor
 
+loss_file: str = 'COMP_2025_TESTING/lib/IMU_Sensor/loss_loss.csv'
+
 # -------------------------------------------------------- #
 
 
@@ -99,7 +101,7 @@ def main() -> None:
     imu_loss_average: float = 0
     mpu_loss_average: float = 0
 
-    for i in range(15):
+    for i in range(4):
         LSM9DS1: list = []
         MPU6050: list = []
 
@@ -130,7 +132,7 @@ def main() -> None:
         loss_loss['LSM9DS1 Loss'] = round(imu_loss, 3)
         loss_loss['MPU6050 Loss'] = round(mpu_loss, 3)
 
-        write_loss_loss('loss_loss.csv', loss_loss)
+        write_loss_loss(loss_file, loss_loss)
 
         clear_terminal()
         print(f'Iteration {i + 1} finsihed')
