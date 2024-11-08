@@ -1,24 +1,30 @@
-# Use the desired Ubuntu base image
-FROM ubuntu:20.04
+# Use Ubuntu 24.04 as the base image
+FROM ubuntu:24.04
 
-# Set environment variables if needed
+# Set environment variables
 ENV DEBIAN_FRONTEND=noninteractive
 
-# Update and install any prerequisites your script might need
+# Install sudo and other prerequisites
 RUN apt-get update && apt-get install -y \
+    sudo \
     curl \
     gnupg2 \
     lsb-release \
+    locales \
+    software-properties-common \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy your ROS 2 installer script into the container
 COPY your_ros2_installer.sh /tmp/
 
-# Make the script executable
+# Make the installer script executable
 RUN chmod +x /tmp/your_ros2_installer.sh
 
-# Run the installer script
-RUN /tmp/your_ros2_installer.sh
+# Run the installer script with bash -e to stop on errors
+RUN bash -e /tmp/your_ros2_installer.sh
 
-# Set the default command
+# Source the ROS 2 setup script for all users
+RUN echo "source /opt/ros/jazzy/setup.bash" >> /etc/bash.bashrc
+
+# Set the default command to start a bash shell
 CMD ["/bin/bash"]
