@@ -1,22 +1,24 @@
-# Use the official ROS 2 Jazzy Jalisco base image
-FROM ros:jazzy-ros-base
+# Use the desired Ubuntu base image
+FROM ubuntu:20.04
 
-# Update and install necessary packages
+# Set environment variables if needed
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Update and install any prerequisites your script might need
 RUN apt-get update && apt-get install -y \
-    python3-colcon-common-extensions \
-    python3-rosdep \
-    python3-vcstool \
-    git \
+    curl \
+    gnupg2 \
+    lsb-release \
     && rm -rf /var/lib/apt/lists/*
 
-# Initialize rosdep
-RUN rosdep init && rosdep update
+# Copy your ROS 2 installer script into the container
+COPY your_ros2_installer.sh /tmp/
 
-# Set the working directory
-WORKDIR /root/ros2_ws
+# Make the script executable
+RUN chmod +x /tmp/your_ros2_installer.sh
 
-# Source ROS 2 setup script in every new shell
-RUN echo "source /opt/ros/jazzy/setup.bash" >> /root/.bashrc
+# Run the installer script
+RUN /tmp/your_ros2_installer.sh
 
-# Default command to run when starting the container
+# Set the default command
 CMD ["/bin/bash"]
