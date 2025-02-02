@@ -16,38 +16,41 @@ void loop() {
  
 // adress of receiving device
  msgTransmit.id = 0x82; 
-
  // this is the length (bytes) of can message
  msgTransmit.len = 4; 
 
  //example hex value in first CAN message byte
- msgTransmit.buf[0] = 0x90;
-
-// this part is from some weird online example
-// this is converting int torqueValue into 2 bytes [1] and [2] using bitwise op
-// Set torque command value to 50%
- int16_t torqueValue = 16380; // 50% of maximum torque
- msgTransmit.buf[1] = torqueValue >> 8; // High byte
- msgTransmit.buf[2] = torqueValue & 0xFF; // Low byte
- // example usage of last byte in message
- msgTransmit.buf[3] =  0x88; 
+ msgTransmit.buf[0] = 0x99;
+ msgTransmit.buf[1] = 0x99; 
+ msgTransmit.buf[2] = 0x99; 
+ msgTransmit.buf[3] = 0x99; 
  
  // writes message over can
  can1.write(msgTransmit);
+ Serial.println("teensy transmited data  --------------------------------------------------------------");
+ 
  // reads can
  can1.read(msgReceive);
 
 // msgRecieve.id is the adress for the intended recipient
 // this is set by sender (see msgTransmit.id) 
 // this is checking to handle messages with this (teensy) device adress
- if(msgReceive.id == 0x78){
+ if(msgReceive.id == 0x871 || msgReceive.id == 0x872){
+  Serial.println("=====================================================");
   Serial.println("This message is for me! \nData: ");
   // print message
   for (int byte : msgReceive.buf){
     Serial.print(byte);
   }
   Serial.println();
+  Serial.println("=====================================================");
+ }else if (msgReceive.id != 0){
+    Serial.print("Unexpected message: ");
+    Serial.print(msgReceive.id,HEX);
+
+    Serial.println();
  }
 
-delay(100);
+
+ delay(100);
 }

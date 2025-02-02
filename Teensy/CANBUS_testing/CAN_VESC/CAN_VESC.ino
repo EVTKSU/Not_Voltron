@@ -20,6 +20,7 @@ void loop() {
   
   // Set current value: for example, 125 means 12.5A when divided by 10.
   int32_t currentValue = 125;  
+  // fills first 4 bytes of buf wth hex version of currentValue (split up)
   memcpy(msgTransmit.buf, &currentValue, 4); // Fill all 4 bytes
   
   // Transmit the message.
@@ -39,7 +40,7 @@ void loop() {
   if (messageReceived) {
     // Check if the received message is the one you expect.
     // For example, if the VESC is supposed to respond with id 0x872:
-    if (msgReceive.id == 0x872) {
+    if (msgReceive.id == 0x871) {
       // Combine the first 4 bytes into a 32-bit signed integer (FET temperature).
       int32_t tempInt = ((int32_t)msgReceive.buf[0]) |
                         (((int32_t)msgReceive.buf[1]) << 8) |
@@ -59,7 +60,7 @@ void loop() {
     }
   } 
   else {
-    Serial.println("No message received");
+    //Serial.println("No message received");
   }
 
   delay(100);
