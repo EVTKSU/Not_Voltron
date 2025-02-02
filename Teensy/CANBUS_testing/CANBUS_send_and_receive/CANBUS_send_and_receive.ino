@@ -2,6 +2,8 @@
 
 FlexCAN_T4<CAN1, RX_SIZE_256, TX_SIZE_16> can1;
 
+ int countInit = 0;
+ int count = 0;
 
 void setup() {
  Serial.begin(9600);
@@ -9,21 +11,29 @@ void setup() {
 
  can1.begin();
  can1.setBaudRate(500000); 
+
 }
 
 void loop() {
- CAN_message_t msgTransmit, msgReceive;
+CAN_message_t msgTransmit, msgReceive;
  
 // adress of receiving device
- msgTransmit.id = 0x82; 
+ count ++;
+  msgTransmit.id = count;
+  Serial.print(count);
+  Serial.println();
+
+
+
+  
  // this is the length (bytes) of can message
  msgTransmit.len = 4; 
 
  //example hex value in first CAN message byte
- msgTransmit.buf[0] = 0x99;
- msgTransmit.buf[1] = 0x99; 
- msgTransmit.buf[2] = 0x99; 
- msgTransmit.buf[3] = 0x99; 
+ msgTransmit.buf[0] = 0xFF;
+ msgTransmit.buf[1] = 0xFF; 
+ msgTransmit.buf[2] = 0xFF; 
+ msgTransmit.buf[3] = 0xFF; 
  
  // writes message over can
  can1.write(msgTransmit);
