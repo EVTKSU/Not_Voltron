@@ -1,0 +1,5 @@
+repositories:
+  voltron_msgs:
+    type: git
+    url: git@gitlab.com:KSU_EVT/autonomous-software/voltron_msgs.git
+    version: master
