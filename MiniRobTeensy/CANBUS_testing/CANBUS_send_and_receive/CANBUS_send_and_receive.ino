@@ -2,8 +2,7 @@
 
 FlexCAN_T4<CAN1, RX_SIZE_256, TX_SIZE_16> can1;
 
- int countInit = 0;
- int count = 0;
+int count = 0;
 
 void setup() {
  Serial.begin(9600);
@@ -18,10 +17,13 @@ void loop() {
 CAN_message_t msgTransmit, msgReceive;
  
 // adress of receiving device
- count ++;
+// this iterates the transmit id each loop to brute force the intended id
+  count ++;
   msgTransmit.id = count;
-  Serial.print(count);
-  Serial.println();
+  Serial.print("CAN Message #: ");
+  Serial.println(count);
+  Serial.print("Transmit id: 0x");
+  Serial.println(count, HEX);
 
 
 
@@ -37,7 +39,7 @@ CAN_message_t msgTransmit, msgReceive;
  
  // writes message over can
  can1.write(msgTransmit);
- Serial.println("teensy transmited data  --------------------------------------------------------------");
+ Serial.println("----------------------- teensy transmited data");
  
  // reads can
  can1.read(msgReceive);
@@ -46,14 +48,14 @@ CAN_message_t msgTransmit, msgReceive;
 // this is set by sender (see msgTransmit.id) 
 // this is checking to handle messages with this (teensy) device adress
  if(msgReceive.id == 0x871 || msgReceive.id == 0x872){
-  Serial.println("=====================================================");
+  Serial.println("======================================================================================");
   Serial.println("This message is for me! \nData: ");
   // print message
   for (int byte : msgReceive.buf){
     Serial.print(byte);
   }
   Serial.println();
-  Serial.println("=====================================================");
+  Serial.println("======================================================================================");
  }else if (msgReceive.id != 0){
     Serial.print("Unexpected message: ");
     Serial.print(msgReceive.id,HEX);
@@ -61,6 +63,7 @@ CAN_message_t msgTransmit, msgReceive;
     Serial.println();
  }
 
-
- delay(100);
+ // this code works with no delay (goes really fuckin fast)
+ // delay of 1 - 10 minimum recommended to keep can2usb software from crashing / freezing
+ delay(1);
 }
