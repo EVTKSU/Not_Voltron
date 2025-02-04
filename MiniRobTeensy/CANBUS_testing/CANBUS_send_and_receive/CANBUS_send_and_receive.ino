@@ -31,11 +31,11 @@ CAN_message_t msgTransmit, msgReceive;
  // this is the length (bytes) of can message
  msgTransmit.len = 4; 
 
- //example hex value in first CAN message byte
- msgTransmit.buf[0] = 0xFF;
- msgTransmit.buf[1] = 0xFF; 
- msgTransmit.buf[2] = 0xFF; 
- msgTransmit.buf[3] = 0xFF; 
+ //example hex values (may set vesc motor current amps to 5)
+ msgTransmit.buf[0] = 0x00;
+ msgTransmit.buf[1] = 0x00; 
+ msgTransmit.buf[2] = 0x13; 
+ msgTransmit.buf[3] = 0x88;
  
  // writes message over can
  can1.write(msgTransmit);
@@ -65,5 +65,5 @@ CAN_message_t msgTransmit, msgReceive;
 
  // this code works with no delay (goes really fuckin fast)
  // delay of 1 - 10 minimum recommended to keep can2usb software from crashing / freezing
- delay(1);
+ delay(200);
 }
