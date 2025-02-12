@@ -1,6 +1,5 @@
 # ROB and MINI-ROB autonomous go-kart development repo
-### Kennesaw State University 
-### Electric Vehicle Team
+### Kennesaw State University - Electric Vehicle Team
 
 This repository contains the source code for the ROB and MINI-ROB go-karts for competition in the Autonomous Karting Series. 
 
@@ -11,7 +10,7 @@ This repository contains the source code for the ROB and MINI-ROB go-karts for c
 
 ## Computing Systems and Task Distribution Diagram
 ![software_diagram](README.assets/software_diagram.png)
-
+<br>
 ## ROS2 Docker Usage
 
 ### Build the Docker Image:
@@ -26,9 +25,9 @@ This repository contains the source code for the ROB and MINI-ROB go-karts for c
 
 This setup creates a Docker image based on Ubuntu, installs any necessary dependencies, and runs your ROS 2 installer script inside the container.
 
-**type "exit" to leave the container in your terminal**
+**type `exit` to leave the container in your terminal**
 
-
+<br>
 ## Platformio Usage
 - PlatformIO is used for c++ teensy development in VSCode
 
