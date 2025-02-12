@@ -19,3 +19,4 @@
     - Comment the name of your file at the top of your cpp/ino file
     - Paste code from file to run in src\main.cpp
 
+### Side note: any future PlatformIO projects go under the PlatformIO directory
