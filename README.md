@@ -1,6 +1,37 @@
 # ROB and MINI-ROB autonomous go-kart development repo
-## Platformio Usage:
+### Kennesaw State University 
+### Electric Vehicle Team
+
+This repository contains the source code for the ROB and MINI-ROB go-karts for competition in the Autonomous Karting Series. 
+
+## Table of Contents
+ - [Systems Diagram](#computing-systems-and-task-distribution-diagram)
+ - [ROS2 Docker Usage](#ros2-docker-usage)
+ - [PlatformIO Usage](#platformio-usage)
+
+## Computing Systems and Task Distribution Diagram
+![software_diagram](README.assets/software_diagram.png)
+
+## ROS2 Docker Usage
+
+### Build the Docker Image:
+1. run docker engine in docker desktop
+2. Open a terminal, cd to the directory containing your Dockerfile and run these 2 commands:
+
+### Build the Docker Container
+`docker build -t ros2_image .`
+
+### Run the Docker Container
+`docker run -it ros2_image`
+
+This setup creates a Docker image based on Ubuntu, installs any necessary dependencies, and runs your ROS 2 installer script inside the container.
+
+**type "exit" to leave the container in your terminal**
+
+
+## Platformio Usage
 - PlatformIO is used for c++ teensy development in VSCode
+
 ### Only one file may be in src at one time
   - main.cpp is to be used as the running code
 
