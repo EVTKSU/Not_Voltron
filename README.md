@@ -10,13 +10,15 @@ This repository contains the source code for the ROB and MINI-ROB go-karts for c
  - [ROS2 Docker Usage](#ros2-docker-usage)
  - [PlatformIO Usage](#platformio-usage)
 
+<br>
+
 ## Computing Systems and Task Distribution Diagram
 ![software_diagram](README.assets/software_diagram.png)
 
 <br>
 
 ## ROS2 Docker Usage
-The docker container contains all of the neccesarry ROS2 linux-specific dependencies in an Ubuntu environment
+*The docker container contains all of the neccesarry ROS2 linux-specific dependencies in an Ubuntu environment*
 
 ### Build the Docker Image:
 1. run docker engine in docker desktop
@@ -35,7 +37,7 @@ This setup creates a Docker image based on Ubuntu, installs any necessary depend
 <br>
 
 ## Platformio Usage
-**PlatformIO is used for c++ teensy development in VSCode**
+*PlatformIO is used for c++ teensy development in VSCode*
 
 ### Only one file may be in src at one time
   - main.cpp is to be used as the running code
@@ -44,7 +46,7 @@ This setup creates a Docker image based on Ubuntu, installs any necessary depend
   - Add neccesarry libraries as folders in lib
 
 ### How to run code
-  - Open the TeensyDevelopment folder in VSCode *(BY ITSELF)*
+  - Open the TeensyDevelopment folder in VSCode **(BY ITSELF)**
   - Wait for platformio to load and configure
   - Open src\main.cpp
   - Check mark icon compiles code
