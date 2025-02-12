@@ -3,6 +3,8 @@
 
 This repository contains the source code for the ROB and MINI-ROB go-karts for competition in the Autonomous Karting Series. 
 
+<br>
+
 ## Table of Contents
  - [Systems Diagram](#computing-systems-and-task-distribution-diagram)
  - [ROS2 Docker Usage](#ros2-docker-usage)
@@ -10,8 +12,11 @@ This repository contains the source code for the ROB and MINI-ROB go-karts for c
 
 ## Computing Systems and Task Distribution Diagram
 ![software_diagram](README.assets/software_diagram.png)
+
 <br>
+
 ## ROS2 Docker Usage
+The docker container contains all of the neccesarry ROS2 linux-specific dependencies in an Ubuntu environment
 
 ### Build the Docker Image:
 1. run docker engine in docker desktop
@@ -30,7 +35,7 @@ This setup creates a Docker image based on Ubuntu, installs any necessary depend
 <br>
 
 ## Platformio Usage
-- PlatformIO is used for c++ teensy development in VSCode
+**PlatformIO is used for c++ teensy development in VSCode**
 
 ### Only one file may be in src at one time
   - main.cpp is to be used as the running code
