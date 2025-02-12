@@ -28,6 +28,7 @@ This setup creates a Docker image based on Ubuntu, installs any necessary depend
 **type `exit` to leave the container in your terminal**
 
 <br>
+
 ## Platformio Usage
 - PlatformIO is used for c++ teensy development in VSCode
 
