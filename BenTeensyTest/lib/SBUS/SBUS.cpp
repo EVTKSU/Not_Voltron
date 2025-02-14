@@ -79,7 +79,7 @@ bool SBUS::read(uint16_t* channels, bool* failsafe, bool* lostFrame) {
   // parse the SBUS packet
   if (parse()) {
     if (channels) {
-      // 16 channels of 11 bit data
+      // 10 channels of 11 bit data
       channels[0] = (uint16_t)((_payload[0] | _payload[1] << 8) & 0x07FF);
       channels[1] = (uint16_t)((_payload[1] >> 3 | _payload[2] << 5) & 0x07FF);
       channels[2] =
